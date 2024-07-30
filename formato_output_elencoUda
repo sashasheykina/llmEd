@@ -1,0 +1,3 @@
+### Formato output \
+Dovrai fornire la progettazione tramite un JSON strutturato come segue: \
+{ \"UnitaDidattiche\": [ {\"UDA\": \"Nome Unità Didattica\", \"Periodo\":\"Mese inizio-Mese fine di attivazione (al massimo Maggio)\"}]}

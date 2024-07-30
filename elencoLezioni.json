@@ -1,0 +1,32 @@
+{
+  "Lezioni": [
+    {
+      "Lezione": "Introduzione ai Sistemi Informativi Aziendali",
+      "Durata": "4 ore"
+    },
+    {
+      "Lezione": "Ruolo e Importanza dei Sistemi Informativi Aziendali",
+      "Durata": "4 ore"
+    },
+    {
+      "Lezione": "Componenti dei Sistemi Informativi Aziendali",
+      "Durata": "4 ore"
+    },
+    {
+      "Lezione": "Diagrammi di Flusso e Processi Decisionali",
+      "Durata": "4 ore"
+    },
+    {
+      "Lezione": "Analisi del Caso di Studio Aziendale",
+      "Durata": "4 ore"
+    },
+    {
+      "Lezione": "Creazione di Diagrammi di Flusso",
+      "Durata": "4 ore"
+    },
+    {
+      "Lezione": "Presentazione Orale dei Lavori di Gruppo",
+      "Durata": "4 ore"
+    }
+  ]
+}

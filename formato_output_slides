@@ -1,0 +1,10 @@
+### Formato output
+Dovrai fornire la progettazione tramite un JSON strutturato come segue:
+{"Slide 1":"Titolo della lezione",
+"Slide 2":"Contenuti della lezione",
+"Slide 3":"Introduzione",
+"Slide 4":"Spiegazione teorica",
+"Slide 5": "Attività pratiche",
+"Slide 6":"Discussione e conclusione",
+"Slide 7": "Domande sui concetti trattate"
+}

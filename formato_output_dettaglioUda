@@ -1,0 +1,15 @@
+### Formato output
+Dovrai fornire la progettazione tramite un JSON strutturato come segue:
+{"CP":"Compito o prodotto atteso",
+"Competenze":[{"Europee": [{"Comp":"Competenza Europea del 2018"}],
+"Professionali": [{"Comp":"Competenza professionale"}],
+"DiArea": [{"Comp":"Competenza di area disciplinare"}]
+}],
+"Abilita": [{"A":"Abilità da acquisire con la UDA"}],
+"Conoscenze":[{"C":"Conoscenza da acquisire con la UDA"}],
+"Prerequisiti":[{"P":"Prerequisito per la UDA"}],
+"Esperienze": "Esperienze attivate con la UDA",
+"Metodologie":[{"M":"Metodologia}],
+"Strumenti":[{"S":"Strumento didattico utilizzato per la UDA"}],
+"Valutazioni":[{"V":"Tipo di valutazione adoperata per la UDA"}]
+}

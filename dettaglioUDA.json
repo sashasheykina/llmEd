@@ -1,0 +1,53 @@
+{
+  "CP": "Realizzazione di un diagramma di flusso che rappresenti il processo decisionale all'interno di un'azienda, evidenziando l'interazione tra i diversi sistemi informativi aziendali",
+  "Competenze": [
+    {
+      "Europee": [
+        {
+          "Comp": "Capacità di comprendere e gestire informazioni complesse"
+        }
+      ],
+      "Professionali": [
+        {
+          "Comp": "Interpretazione dei processi decisionali all'interno di un'azienda"
+        }
+      ],
+      "DiArea": [
+        {
+          "Comp": "Comprendere il ruolo e l'importanza dei sistemi informativi aziendali"
+        }
+      ]
+    }
+  ],
+  "Abilita": [
+    {
+      "A": "Creare diagrammi di flusso utilizzando software specializzati"
+    }
+  ],
+  "Conoscenze": [
+    {
+      "C": "Concetto di sistema informativo aziendale e i suoi principali componenti"
+    }
+  ],
+  "Prerequisiti": [
+    {
+      "P": "Conoscenza base dei concetti informatici e di gestione"
+    }
+  ],
+  "Esperienze": "Gli studenti, divisi in gruppi misti, dovranno analizzare un caso di studio aziendale reale e identificare i diversi moduli del sistema informativo coinvolto nel processo decisionale. Successivamente dovranno realizzare, utilizzando il software assegnato, un diagramma di flusso che rappresenti in maniera chiara e dettagliata l'interazione tra i vari sistemi informativi aziendali coinvolti nel processo",
+  "Metodologie": [
+    {
+      "M": "Lavoro di gruppo, studio di casi reali, attività laboratoriali"
+    }
+  ],
+  "Strumenti": [
+    {
+      "S": "Software per la creazione di diagrammi di flusso, materiali didattici online e software di gestione del progetto"
+    }
+  ],
+  "Valutazioni": [
+    {
+      "V": "Valutazione del diagramma di flusso prodotto, presentazione orale del lavoro di gruppo, coinvolgimento attivo durante le attività"
+    }
+  ]
+}

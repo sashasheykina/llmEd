@@ -1,0 +1,20 @@
+{
+  "UnitaDidattiche": [
+    {
+      "UDA": "Introduzione ai Sistemi Informativi Aziendali",
+      "Periodo": "Settembre-Ottobre"
+    },
+    {
+      "UDA": "Gestione dei Dati Aziendali",
+      "Periodo": "Novembre-Dicembre"
+    },
+    {
+      "UDA": "Comunicazione Aziendale tramite Siti Web",
+      "Periodo": "Gennaio-Febbraio"
+    },
+    {
+      "UDA": "Sicurezza Informatica e Privacy",
+      "Periodo": "Marzo-Aprile"
+    }
+  ]
+}
