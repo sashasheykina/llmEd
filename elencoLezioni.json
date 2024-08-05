@@ -1,32 +1,24 @@
 {
   "Lezioni": [
     {
-      "Lezione": "Introduzione ai Sistemi Informativi Aziendali",
+      "Lezione": "Introduzione ai Sistemi Informativi Aziendali: concetti di base e importanza nel contesto aziendale",
       "Durata": "4 ore"
     },
     {
-      "Lezione": "Ruolo e Importanza dei Sistemi Informativi Aziendali",
+      "Lezione": "Caratteristiche e funzionalità dei Sistemi Informativi Aziendali",
       "Durata": "4 ore"
     },
     {
-      "Lezione": "Componenti dei Sistemi Informativi Aziendali",
-      "Durata": "4 ore"
+      "Lezione": "Metodi e strumenti per la realizzazione di presentazioni multimediali efficaci",
+      "Durata": "6 ore"
     },
     {
-      "Lezione": "Diagrammi di Flusso e Processi Decisionali",
-      "Durata": "4 ore"
+      "Lezione": "Lavoro di gruppo per la realizzazione della presentazione multimediale",
+      "Durata": "6 ore"
     },
     {
-      "Lezione": "Analisi del Caso di Studio Aziendale",
-      "Durata": "4 ore"
-    },
-    {
-      "Lezione": "Creazione di Diagrammi di Flusso",
-      "Durata": "4 ore"
-    },
-    {
-      "Lezione": "Presentazione Orale dei Lavori di Gruppo",
-      "Durata": "4 ore"
+      "Lezione": "Autovalutazione e peer assessment della presentazione",
+      "Durata": "2 ore"
     }
   ]
 }

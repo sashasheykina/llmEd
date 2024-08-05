@@ -5,16 +5,20 @@
       "Periodo": "Settembre-Ottobre"
     },
     {
-      "UDA": "Gestione dei Dati Aziendali",
+      "UDA": "Basi di Dati e Linguaggio SQL",
       "Periodo": "Novembre-Dicembre"
     },
     {
-      "UDA": "Comunicazione Aziendale tramite Siti Web",
+      "UDA": "Progettazione e Realizzazione di Siti Web",
       "Periodo": "Gennaio-Febbraio"
     },
     {
       "UDA": "Sicurezza Informatica e Privacy",
       "Periodo": "Marzo-Aprile"
+    },
+    {
+      "UDA": "Applicazioni Informatiche per la Gestione Aziendale",
+      "Periodo": "Maggio"
     }
   ]
 }

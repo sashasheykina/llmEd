@@ -1,53 +1,53 @@
 {
-  "CP": "Realizzazione di un diagramma di flusso che rappresenti il processo decisionale all'interno di un'azienda, evidenziando l'interazione tra i diversi sistemi informativi aziendali",
+  "CP": "Realizzazione di una presentazione multimediale sull'importanza dei Sistemi Informativi Aziendali nel contesto aziendale",
   "Competenze": [
     {
       "Europee": [
         {
-          "Comp": "Capacità di comprendere e gestire informazioni complesse"
+          "Comp": "Competenza Europea del 2018"
         }
       ],
       "Professionali": [
         {
-          "Comp": "Interpretazione dei processi decisionali all'interno di un'azienda"
+          "Comp": "Utilizzare i sistemi informativi aziendali e contribuire sia alla loro innovazione sia al loro adeguamento organizzativo e tecnologico"
         }
       ],
       "DiArea": [
         {
-          "Comp": "Comprendere il ruolo e l'importanza dei sistemi informativi aziendali"
+          "Comp": "Interpretare i sistemi aziendali nei loro modelli, processi e flussi informativi con riferimento alle diverse tipologie di imprese"
         }
       ]
     }
   ],
   "Abilita": [
     {
-      "A": "Creare diagrammi di flusso utilizzando software specializzati"
+      "A": "Produrre presentazioni multimediali efficaci e coinvolgenti"
     }
   ],
   "Conoscenze": [
     {
-      "C": "Concetto di sistema informativo aziendale e i suoi principali componenti"
+      "C": "Caratteristiche e funzionalità dei Sistemi Informativi Aziendali"
     }
   ],
   "Prerequisiti": [
     {
-      "P": "Conoscenza base dei concetti informatici e di gestione"
+      "P": "Conoscenza basilare dei concetti informatici di base"
     }
   ],
-  "Esperienze": "Gli studenti, divisi in gruppi misti, dovranno analizzare un caso di studio aziendale reale e identificare i diversi moduli del sistema informativo coinvolto nel processo decisionale. Successivamente dovranno realizzare, utilizzando il software assegnato, un diagramma di flusso che rappresenti in maniera chiara e dettagliata l'interazione tra i vari sistemi informativi aziendali coinvolti nel processo",
+  "Esperienze": "Gli studenti realizzeranno una presentazione multimediale utilizzando strumenti informatici dedicati. Verranno invitati a collaborare in gruppi misti per favorire lo scambio di competenze e il lavoro di squadra. Sarà previsto anche un momento di autovalutazione e di valutazione tra pari per riflettere sull'efficacia della presentazione realizzata.",
   "Metodologie": [
     {
-      "M": "Lavoro di gruppo, studio di casi reali, attività laboratoriali"
+      "M": "Lezione frontale interattiva con utilizzo della LIM per presentare concetti teorici, lavoro di gruppo per la realizzazione della presentazione, autovalutazione e peer assessment"
     }
   ],
   "Strumenti": [
     {
-      "S": "Software per la creazione di diagrammi di flusso, materiali didattici online e software di gestione del progetto"
+      "S": "LIM, software per la creazione di presentazioni multimediali"
     }
   ],
   "Valutazioni": [
     {
-      "V": "Valutazione del diagramma di flusso prodotto, presentazione orale del lavoro di gruppo, coinvolgimento attivo durante le attività"
+      "V": "Valutazione formativa basata sull'efficacia della presentazione e sull'abilità nel comunicare concetti legati ai Sistemi Informativi Aziendali"
     }
   ]
 }

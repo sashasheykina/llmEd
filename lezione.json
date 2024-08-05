@@ -3,92 +3,62 @@
   "Durata": "4 ore",
   "Obiettivi": [
     {
-      "O": "Comprendere il concetto di sistema informativo aziendale e i suoi principali componenti"
-    },
-    {
-      "O": "Sviluppare la capacità di creare diagrammi di flusso utilizzando software specializzati"
-    },
-    {
-      "O": "Interpretare i processi decisionali all'interno di un'azienda"
-    },
-    {
-      "O": "Comprendere il ruolo e l'importanza dei sistemi informativi aziendali"
+      "O": "Introdurre i concetti di base dei Sistemi Informativi Aziendali e illustrarne l'importanza nel contesto aziendale"
     }
   ],
   "Contenuti": [
     {
-      "C": "Sistema informativo aziendale e i suoi componenti"
-    },
-    {
-      "C": "Diagrammi di flusso e processi decisionali"
+      "C": "Caratteristiche e funzionalità dei Sistemi Informativi Aziendali"
     }
   ],
   "Metodologie": [
     {
-      "M": "Lavoro di gruppo"
-    },
-    {
-      "M": "Studio di casi reali"
-    },
-    {
-      "M": "Attività laboratoriali"
+      "M": "Lezione frontale interattiva con utilizzo della LIM per presentare concetti teorici"
     }
   ],
   "Valutazione": [
     {
-      "V": "Valutazione del diagramma di flusso prodotto"
-    },
-    {
-      "V": "Presentazione orale del lavoro di gruppo"
-    },
-    {
-      "V": "Coinvolgimento attivo durante le attività"
+      "V": "Valutazione formativa basata sull'efficacia della presentazione e sull'abilità nel comunicare concetti legati ai Sistemi Informativi Aziendali"
     }
   ],
   "Materiali richiesti": [
     {
-      "M": "Software per creare diagrammi di flusso"
-    },
-    {
-      "M": "Materiali didattici online"
-    },
-    {
-      "M": "Software di gestione del progetto"
+      "M": "LIM, software per la creazione di presentazioni multimediali"
     }
   ],
   "Struttura della lezione": [
     {
       "Introduzione": [
         {
-          "I": "Breve descrizione"
+          "I": "Breve introduzione al tema della lezione"
         }
       ],
-      "Durata": "10 minuti"
+      "Durata": "30 min"
     },
     {
       "Spiegazione teorica": [
         {
-          "S": "Illustrazione del concetto di sistema informativo aziendale e dei diagrammi di flusso"
+          "S": "Illustrazione delle caratteristiche e funzionalità dei Sistemi Informativi Aziendali"
         }
       ],
-      "Durata": "40 minuti"
+      "Durata": "1 ora e 30 min"
     },
     {
       "Attività pratica": [
         {
-          "A": "Realizzazione di esempi di diagrammi di flusso in gruppi misti"
+          "A": "Esercitazione guidata sulla creazione di una presentazione multimediale"
         }
       ],
-      "Durata": "100 minuti"
+      "Durata": "1 ora"
     },
     {
       "Discussione e Conclusione": [
         {
-          "D": "Confronto dei diagrammi prodotti e riflessione sull'importanza dei sistemi informativi aziendali"
+          "D": "Discussione sui contenuti appresi e riflessione finale sull'importanza dei Sistemi Informativi Aziendali"
         }
       ],
-      "Durata": "30 minuti"
+      "Durata": "1 hora"
     }
   ],
-  "Note Aggiuntive": "La lezione prevede un approccio pratico e partecipativo per favorire la comprensione dei concetti e lo sviluppo delle abilità richieste."
+  "Note Aggiuntive": "Durante la lezione, si inviteranno gli studenti a porre domande e a partecipare attivamente alla discussione. Sarà importante favorire la partecipazione di tutti gli studenti, anche attraverso attività di gruppo."
 }
