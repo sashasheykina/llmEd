@@ -1,3 +1,7 @@
 ### Formato output
 Dovrai fornire la progettazione tramite un JSON strutturato come segue:
-{“Lezioni”:[{“Lezione”:”Breve descrizione della lezione”}, “Durata”]}
+{"Lezioni":[
+    {"Lezione":"Breve descrizione della lezione"},
+    "Durata"
+    ]
+ }

@@ -1,24 +1,29 @@
 {
-  "UnitaDidattiche": [
+  "Unita Didattiche": [
     {
       "UDA": "Introduzione ai Sistemi Informativi Aziendali",
-      "Periodo": "Settembre-Ottobre"
+      "Periodo": "Settembre-Ottobre",
+      "Motivazioni": "Fornire una comprensione di base del sistema informativo aziendale, delle sue componenti e della sua importanza nel contesto aziendale. Questo è essenziale per far sì che gli studenti acquisiscano le fondamenta su cui si baseranno le future unità didattiche."
     },
     {
-      "UDA": "Basi di Dati e Linguaggio SQL",
-      "Periodo": "Novembre-Dicembre"
+      "UDA": "Progettazione e Gestione di Database",
+      "Periodo": "Novembre-Dicembre",
+      "Motivazioni": "Sviluppare le competenze nella progettazione e gestione di database, con particolare attenzione all'utilizzo del DBMS e al linguaggio SQL. Queste conoscenze sono cruciali per la gestione dei flussi informativi e per l'analisi dei dati aziendali."
     },
     {
-      "UDA": "Progettazione e Realizzazione di Siti Web",
-      "Periodo": "Gennaio-Febbraio"
+      "UDA": "Introduzione ai Linguaggi di Programmazione",
+      "Periodo": "Gennaio-Febbraio",
+      "Motivazioni": "Fornire una comprensione di base dei linguaggi di programmazione, fondamento per sviluppare soluzioni software aziendali e migliorare i processi operativi."
     },
     {
-      "UDA": "Sicurezza Informatica e Privacy",
-      "Periodo": "Marzo-Aprile"
+      "UDA": "Progettazione di Ipermedia e Siti Web",
+      "Periodo": "Marzo-Aprile",
+      "Motivazioni": "Sviluppare competenze nella progettazione e realizzazione di ipermedia e siti web aziendali, migliorando la comunicazione digitale e integrata dell'azienda."
     },
     {
-      "UDA": "Applicazioni Informatiche per la Gestione Aziendale",
-      "Periodo": "Maggio"
+      "UDA": "Tecnologie di Rete e Sicurezza Informatica",
+      "Periodo": "Aprile-Maggio",
+      "Motivazioni": "Introdurre gli studenti alle tecnologie di rete e alla sicurezza informatica, argomenti cruciali per proteggere i dati aziendali e facilitare le operazioni telematiche."
     }
   ]
 }

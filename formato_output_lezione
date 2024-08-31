@@ -12,6 +12,6 @@ Dovrai fornire la progettazione tramite un JSON strutturato come segue:
 {"Spiegazione teorica":[{"S":"Breve descrizione}], "Durata"},
 {"Attività pratica":[{"A":"Breve descrizione}], "Durata"},
 {"Discussione e Conclusione":[{"D":""Breve descrizione}], "Durata"}
-]
+],
 "Note Aggiuntive": "Note aggiuntive"
 }

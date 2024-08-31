@@ -22,31 +22,38 @@ def dettaglioLezione(its, grado, indirizzo, contesto, client):
     Introduzione ai Sistemi Informativi Aziendali \
     DETTAGLIO LEZIONE: \ "
 
-
     completion = client.chat.completions.create(
-      model="gpt-3.5-turbo",
-      messages=[
-        {"role": "system", "content": role_system
-
-            },
-        {"role": "user", "content": role_user
-            }
-      ]
+        model="gpt-4o",
+        messages=[
+            {"role": "system", "content": role_system},
+            {"role": "user", "content": role_user}
+        ]
     )
 
 
     # Estrarre la risposta testuale dall'oggetto completion
     response_text = completion.choices[0].message.content
 
-    # Convertire il testo JSON in un oggetto Python
-    response_data = json.loads(response_text)
+    # Pulire la risposta per trovare solo il JSON
+    json_start = response_text.find('{')
+    json_end = response_text.rfind('}') + 1
 
-    # Salvataggio della risposta in un file JSON
+    if json_start != -1 and json_end != -1:
+        json_text = response_text[json_start:json_end]
 
-    lezioni_path = 'lezione.json'
-    with open(lezioni_path, 'w', encoding='utf-8') as json_file:
-        json.dump(response_data, json_file, ensure_ascii=False, indent=2)
+        try:
+            response_data = json.loads(json_text)
+            # Salvataggio della risposta in un file JSON
+            elenco_path = 'lezione.json'
+            with open(elenco_path, 'w', encoding='utf-8') as json_file:
+                json.dump(response_data, json_file, ensure_ascii=False, indent=2)
 
-    print(f"La risposta è stata salvata in {lezioni_path}")
+            print(f"La risposta è stata salvata in {elenco_path}")
+        except json.JSONDecodeError as e:
+            print("Errore nel decodificare il JSON:", e)
+            print("Contenuto JSON estratto:", json_text)
+    else:
+        print("Errore: non è stato possibile individuare un blocco JSON valido nella risposta.")
+        print("Contenuto della risposta:", response_text)
 
 

@@ -16,16 +16,13 @@ def dettaglioUDA(its, grado, indirizzo, contesto, client):
     Introduzione ai Sistemi Informativi Aziendali \
     DETTAGLIO UDA: \
     "
-    elenco_UDA = open("elencoUDA.json", "r").read()
-    completion = client.chat.completions.create(
-      model="gpt-3.5-turbo",
-      messages=[
-        {"role": "system", "content": role_system
 
-            },
-        {"role": "user", "content": role_user
-            }
-      ]
+    completion = client.chat.completions.create(
+        model="gpt-4",
+        messages=[
+            {"role": "system", "content": role_system},
+            {"role": "user", "content": role_user}
+        ]
     )
 
 

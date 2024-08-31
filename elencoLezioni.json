@@ -1,24 +1,49 @@
 {
   "Lezioni": [
     {
-      "Lezione": "Introduzione ai Sistemi Informativi Aziendali: concetti di base e importanza nel contesto aziendale",
+      "Lezione": "Introduzione ai Sistemi Informativi Aziendali",
+      "Descrizione": "Presentazione generale dei concetti chiave dei Sistemi Informativi Aziendali (SIA) e della loro importanza nel contesto aziendale. Panoramica dei principali componenti di un SIA.",
       "Durata": "4 ore"
     },
     {
-      "Lezione": "Caratteristiche e funzionalità dei Sistemi Informativi Aziendali",
+      "Lezione": "Componenti dei Sistemi Informativi Aziendali",
+      "Descrizione": "Dettaglio dei vari componenti di un SIA, inclusi hardware, software, persone, procedure e dati. Discussione sull'integrazione di questi componenti.",
       "Durata": "4 ore"
     },
     {
-      "Lezione": "Metodi e strumenti per la realizzazione di presentazioni multimediali efficaci",
-      "Durata": "6 ore"
+      "Lezione": "I Sistemi Informativi nelle Funzioni Aziendali",
+      "Descrizione": "Esame delle applicazioni di SIA nelle diverse funzioni aziendali come contabilità, risorse umane, marketing e vendite.",
+      "Durata": "4 ore"
     },
     {
-      "Lezione": "Lavoro di gruppo per la realizzazione della presentazione multimediale",
-      "Durata": "6 ore"
+      "Lezione": "Tipi di Sistemi Informativi Aziendali",
+      "Descrizione": "Discussione sui diversi tipi di SIA (e.g., ERP, CRM, SCM) e le loro applicazioni specifiche nelle imprese.",
+      "Durata": "4 ore"
     },
     {
-      "Lezione": "Autovalutazione e peer assessment della presentazione",
-      "Durata": "2 ore"
+      "Lezione": "Caso Studio: Implementazione di un SIA",
+      "Descrizione": "Analisi di un caso studio reale o ipotetico di implementazione di un SIA in un'azienda. Discussione sui benefici ottenuti e sulle sfide affrontate.",
+      "Durata": "4 ore"
+    },
+    {
+      "Lezione": "Uso delle Reti e Strumenti Informatici",
+      "Descrizione": "Esplorazione delle reti aziendali e degli strumenti informatici utilizzati per supportare un SIA. Presentazione delle tecnologie emergenti.",
+      "Durata": "4 ore"
+    },
+    {
+      "Lezione": "Metodologie di Raccolta e Analisi dei Dati",
+      "Descrizione": "Introduzione alle tecniche di raccolta e analisi dei dati aziendali, con esercitazioni pratiche su dataset aziendali.",
+      "Durata": "4 ore"
+    },
+    {
+      "Lezione": "Progettazione di un Sistema Informativo Aziendale",
+      "Descrizione": "Guida alla progettazione di un semplice SIA per una piccola azienda. Discussione su requisiti, design e prototipazione.",
+      "Durata": "4 ore"
+    },
+    {
+      "Lezione": "Presentazione del Progetto Finale",
+      "Descrizione": "Gli studenti presentano i loro progetti di un esempio di SIA applicato a un'azienda. Discussione sui risultati e valutazione tra pari.",
+      "Durata": "4 ore"
     }
   ]
 }

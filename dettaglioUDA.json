@@ -1,53 +1,89 @@
 {
-  "CP": "Realizzazione di una presentazione multimediale sull'importanza dei Sistemi Informativi Aziendali nel contesto aziendale",
+  "CP": "Alla fine dell'Unità di Apprendimento gli studenti saranno in grado di descrivere le funzioni di un SIA (Sistema Informativo Aziendale) e di identificare i suoi componenti principali. Gli studenti dovranno anche essere in grado di illustrare un caso di applicazione di un SIA all'interno di un'azienda.",
   "Competenze": [
     {
       "Europee": [
         {
-          "Comp": "Competenza Europea del 2018"
+          "Comp": "Competenza digitale"
+        },
+        {
+          "Comp": "Imprenditorialità"
         }
       ],
       "Professionali": [
         {
-          "Comp": "Utilizzare i sistemi informativi aziendali e contribuire sia alla loro innovazione sia al loro adeguamento organizzativo e tecnologico"
+          "Comp": "Conoscenza dei processi aziendali e delle loro interconnessioni"
+        },
+        {
+          "Comp": "Capacità di analisi e sintesi dei flussi informativi aziendali"
         }
       ],
       "DiArea": [
         {
-          "Comp": "Interpretare i sistemi aziendali nei loro modelli, processi e flussi informativi con riferimento alle diverse tipologie di imprese"
+          "Comp": "Interpretare i sistemi aziendali nei loro modelli, processi e flussi informativi con riferimento alle differenti tipologie di imprese"
+        },
+        {
+          "Comp": "Utilizzare le reti e gli strumenti informatici nelle attività di studio, ricerca e approfondimento disciplinare"
         }
       ]
     }
   ],
   "Abilita": [
     {
-      "A": "Produrre presentazioni multimediali efficaci e coinvolgenti"
+      "A": "Comprendere le funzioni di un SIA e identificare i suoi principali componenti"
+    },
+    {
+      "A": "Distinguere tra i vari tipi di SIA"
     }
   ],
   "Conoscenze": [
     {
-      "C": "Caratteristiche e funzionalità dei Sistemi Informativi Aziendali"
+      "C": "Principi e funzioni dei Sistemi Informativi Aziendali"
+    },
+    {
+      "C": "Componenti e struttura di un SIA"
     }
   ],
   "Prerequisiti": [
     {
-      "P": "Conoscenza basilare dei concetti informatici di base"
+      "P": "Conoscenza di base del funzionamento di un'azienda e dei suoi processi interni"
+    },
+    {
+      "P": "Familiarità con l'uso dei computer e delle applicazioni software di base"
     }
   ],
-  "Esperienze": "Gli studenti realizzeranno una presentazione multimediale utilizzando strumenti informatici dedicati. Verranno invitati a collaborare in gruppi misti per favorire lo scambio di competenze e il lavoro di squadra. Sarà previsto anche un momento di autovalutazione e di valutazione tra pari per riflettere sull'efficacia della presentazione realizzata.",
+  "Esperienze": "Lezioni frontali, esercizi pratici di caso, discussioni di gruppo e progetto finale che prevede la presentazione di un esempio di SIA applicato a un'azienda.",
   "Metodologie": [
     {
-      "M": "Lezione frontale interattiva con utilizzo della LIM per presentare concetti teorici, lavoro di gruppo per la realizzazione della presentazione, autovalutazione e peer assessment"
+      "M": "Lezione frontale"
+    },
+    {
+      "M": "Apprendimento basato su problemi"
+    },
+    {
+      "M": "Apprendimento cooperativo"
     }
   ],
   "Strumenti": [
     {
-      "S": "LIM, software per la creazione di presentazioni multimediali"
+      "S": "Libro di testo"
+    },
+    {
+      "S": "Computer e software per la presentazione"
+    },
+    {
+      "S": "Internet per la ricerca"
     }
   ],
   "Valutazioni": [
     {
-      "V": "Valutazione formativa basata sull'efficacia della presentazione e sull'abilità nel comunicare concetti legati ai Sistemi Informativi Aziendali"
+      "V": "Valutazione sommativa mediante test a risposta multipla alla fine dell'unità"
+    },
+    {
+      "V": "Valutazione formativa attraverso l'osservazione durante le lezioni e i lavori di gruppo"
+    },
+    {
+      "V": "Autovalutazione e valutazione tra pari su presentazione del progetto"
     }
   ]
 }
