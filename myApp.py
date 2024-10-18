@@ -10,7 +10,7 @@ from tools import aggiorna_elencoUDA, aggiorna_elencoLezioni, lineeGuida, period
     aggiorna_elencoAttivita, creaContenuto
 
 # Directly assign the API key
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = ''
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 st.set_page_config(page_title="", layout='wide')
