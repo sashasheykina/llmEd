@@ -1,0 +1,245 @@
+{
+  "titolo": "Introduzione ai Sistemi Informativi Aziendali: definizione e importanza",
+  "materiale_didattico": "quiz",
+  "domande_sm_vf": [
+    {
+      "numero": "10",
+      "punti": "10",
+      "modalità_valutazione": "1 punto per ogni risposta corretta",
+      "domande": [
+        {
+          "id_d": "1",
+          "domanda": "Qual è la principale funzione di un Sistema Informativo Aziendale?",
+          "tipo": "scelta_multipla",
+          "opzioni": [
+            {
+              "id_o": "a",
+              "risposta": "Archiviare dati storici"
+            },
+            {
+              "id_o": "b",
+              "risposta": "Supportare il processo decisionale"
+            },
+            {
+              "id_o": "c",
+              "risposta": "Proteggere i dati personali"
+            },
+            {
+              "id_o": "d",
+              "risposta": "Analizzare i dati finanziari"
+            }
+          ],
+          "risposta": "b"
+        },
+        {
+          "id_d": "2",
+          "domanda": "I Sistemi Informativi Aziendali contribuiscono a migliorare l'efficienza aziendale. Vero o Falso?",
+          "tipo": "vero/falso",
+          "opzioni": [
+            {
+              "id_o": "a",
+              "risposta": "Vero"
+            },
+            {
+              "id_o": "b",
+              "risposta": "Falso"
+            }
+          ],
+          "risposta": "a"
+        },
+        {
+          "id_d": "3",
+          "domanda": "Quale di questi non è un componente di un sistema informativo aziendale?",
+          "tipo": "scelta_multipla",
+          "opzioni": [
+            {
+              "id_o": "a",
+              "risposta": "Hardware"
+            },
+            {
+              "id_o": "b",
+              "risposta": "Software"
+            },
+            {
+              "id_o": "c",
+              "risposta": "Budget di marketing"
+            },
+            {
+              "id_o": "d",
+              "risposta": "Database"
+            }
+          ],
+          "risposta": "c"
+        },
+        {
+          "id_d": "4",
+          "domanda": "I sistemi informativi possono migliorare la comunicazione tra i reparti aziendali. Vero o Falso?",
+          "tipo": "vero/falso",
+          "opzioni": [
+            {
+              "id_o": "a",
+              "risposta": "Vero"
+            },
+            {
+              "id_o": "b",
+              "risposta": "Falso"
+            }
+          ],
+          "risposta": "a"
+        },
+        {
+          "id_d": "5",
+          "domanda": "Quale acronimo si riferisce ad un sistema che integra tutte le funzioni aziendali in una sola applicazione?",
+          "tipo": "scelta_multipla",
+          "opzioni": [
+            {
+              "id_o": "a",
+              "risposta": "CRM"
+            },
+            {
+              "id_o": "b",
+              "risposta": "ERP"
+            },
+            {
+              "id_o": "c",
+              "risposta": "CMS"
+            },
+            {
+              "id_o": "d",
+              "risposta": "SCM"
+            }
+          ],
+          "risposta": "b"
+        },
+        {
+          "id_d": "6",
+          "domanda": "La sicurezza delle informazioni non è una preoccupazione primaria nei sistemi informativi aziendali. Vero o Falso?",
+          "tipo": "vero/falso",
+          "opzioni": [
+            {
+              "id_o": "a",
+              "risposta": "Vero"
+            },
+            {
+              "id_o": "b",
+              "risposta": "Falso"
+            }
+          ],
+          "risposta": "b"
+        },
+        {
+          "id_d": "7",
+          "domanda": "Quale dei seguenti non è un sistema di informativo aziendale?",
+          "tipo": "scelta_multipla",
+          "opzioni": [
+            {
+              "id_o": "a",
+              "risposta": "Sistema di gestione relazioni clienti (CRM)"
+            },
+            {
+              "id_o": "b",
+              "risposta": "Sistema di gestione delle risorse umane (HRM)"
+            },
+            {
+              "id_o": "c",
+              "risposta": "Sistema di regolazione del traffico"
+            },
+            {
+              "id_o": "d",
+              "risposta": "Sistema di gestione della catena di approvvigionamento (SCM)"
+            }
+          ],
+          "risposta": "c"
+        },
+        {
+          "id_d": "8",
+          "domanda": "I sistemi informativi possono automatizzare il flusso di lavoro e ridurre i tempi di ciclo. Vero o Falso?",
+          "tipo": "vero/falso",
+          "opzioni": [
+            {
+              "id_o": "a",
+              "risposta": "Vero"
+            },
+            {
+              "id_o": "b",
+              "risposta": "Falso"
+            }
+          ],
+          "risposta": "a"
+        },
+        {
+          "id_d": "9",
+          "domanda": "Cosa definisce principalmente un Sistema Decisionale (DSS)?",
+          "tipo": "scelta_multipla",
+          "opzioni": [
+            {
+              "id_o": "a",
+              "risposta": "Memorizzazione dei dati"
+            },
+            {
+              "id_o": "b",
+              "risposta": "Supporto alle decisioni aziendali"
+            },
+            {
+              "id_o": "c",
+              "risposta": "Controllo delle risorse umane"
+            },
+            {
+              "id_o": "d",
+              "risposta": "Previsioni finanziarie"
+            }
+          ],
+          "risposta": "b"
+        },
+        {
+          "id_d": "10",
+          "domanda": "Gli ERP sono utilizzati principalmente per le operazioni di back-office. Vero o Falso?",
+          "tipo": "vero/falso",
+          "opzioni": [
+            {
+              "id_o": "a",
+              "risposta": "Vero"
+            },
+            {
+              "id_o": "b",
+              "risposta": "Falso"
+            }
+          ],
+          "risposta": "a"
+        }
+      ]
+    }
+  ],
+  "domande_a": [
+    {
+      "numero": "4",
+      "tipo": "domanda aperta",
+      "punti": "8",
+      "modalità_valutazione": "2 punti per ciascuna risposta aperta (completa e ben argomentata)",
+      "domande": [
+        {
+          "id_d": "1",
+          "domanda": "Descrivi come i sistemi informativi aziendali possano supportare le decisioni strategiche.",
+          "criteri": "Valutazione della conoscenza della funzione strategica dei sistemi informativi, esempi concreti di utilizzo."
+        },
+        {
+          "id_d": "2",
+          "domanda": "Spiega l'importanza dell'integrazione dei dati in un Sistema Informativo Aziendale.",
+          "criteri": "Comprensione della centralizzazione e della condivisione dei dati, vantaggi dell'integrazione."
+        },
+        {
+          "id_d": "3",
+          "domanda": "Elenca e discuti tre benefici principali che un'azienda può ottenere dall'utilizzo di un ERP.",
+          "criteri": "Conoscenza dei benefici degli ERP, descrizione dettagliata con esempi se possibile."
+        },
+        {
+          "id_d": "4",
+          "domanda": "Analizza un caso in cui l'implementazione di un CRM ha portato benefici misurabili a un'azienda.",
+          "criteri": "Capacità di identificare applicazioni pratiche dei sistemi CRM, esempi di miglioramenti aziendali."
+        }
+      ]
+    }
+  ],
+  "punti_totali": "18",
+  "obiettivo_minimo": "Superamento della verifica con 10 punti su totale"
+}

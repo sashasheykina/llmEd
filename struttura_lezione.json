@@ -1,0 +1,90 @@
+{
+  "obiettivi": "Fornire agli studenti una comprensione di base dei sistemi informativi aziendali, comprendendo i loro componenti principali e il ruolo che svolgono nelle organizzazioni.",
+  "durata": "4 ore",
+  "contenuti": "Concetti di base sui Sistemi Informativi Aziendali, loro importanza e funzione nei contesti organizzativi",
+  "sezioni": {
+    "verifica prerequisiti": {
+      "prerequisiti": [
+        "Conoscenze di base di informatica",
+        "Conoscenza degli elementi fondamentali di un sistema informativo"
+      ],
+      "presentazione": "Discussione guidata per verificare le conoscenze pregresse degli studenti",
+      "durata": "15 minuti"
+    },
+    "introduzione": {
+      "obiettivo": "Orientare gli studenti sui concetti base dei sistemi informativi aziendali",
+      "descrizione": "Introduzione alla lezione con focus sull'importanza dei sistemi informativi nel mondo aziendale",
+      "attività": [
+        "Presentazione dei concetti chiave utilizzando PowerPoint",
+        "Brainstorming sui sistemi informativi tramite Mentimeter"
+      ],
+      "durata": "30 minuti"
+    },
+    "nucleo_centrale": {
+      "attività": [
+        "Lezione frontale sui componenti e le funzioni dei sistemi informativi",
+        "Esercizi di gruppo su Padlet per analizzare casi studio",
+        "Creazione di mappe concettuali con Coggle o Algor"
+      ],
+      "contenuti della lezione": [
+        {
+          "contenuto": "Componenti dei Sistemi Informativi",
+          "sotto_contenuto": {
+            "sc": [
+              "Hardware",
+              "Software",
+              "Data",
+              "Network",
+              "People"
+            ]
+          }
+        },
+        {
+          "contenuto": "Funzioni dei Sistemi Informativi",
+          "sotto_contenuto": {
+            "sc": [
+              "Supporto decisionale",
+              "Automazione dei processi",
+              "Archiviazione dati"
+            ]
+          }
+        }
+      ],
+      "presentazione dei contenuti": "Utilizzo della LIM per la presentazione visiva e il coinvolgimento interattivo",
+      "durata": "120 minuti"
+    },
+    "riepilogo_consolodamento": {
+      "obiettivo": "Consolidare e verificare le conoscenze acquisite",
+      "attività": [
+        "Quiz interattivo su Kahoot! per il consolidamento",
+        "Discussione di riepilogo dei temi trattati"
+      ],
+      "durata": "30 minuti"
+    },
+    "sezione_5": {
+      "verifica breve": "Questionario su Google Moduli per valutare la comprensione globale"
+    }
+  },
+  "Materiale didattico e strumenti utilizzati durante la lezione": [
+    {
+      "materiale_didattico": "Presentazioni PowerPoint",
+      "strumento": "Projector",
+      "descrizione": "Utilizzato per presentare i contenuti teoria dei sistemi informativi"
+    },
+    {
+      "materiale_didattico": "App per brainstorming e quiz",
+      "strumento": "Mentimeter, Kahoot!",
+      "descrizione": "Strumenti utilizzati per testare la comprensione e raccogliere input dagli studenti"
+    },
+    {
+      "materiale_didattico": "Mappe Concettuali",
+      "strumento": "Coggle, Algor",
+      "descrizione": "Strumenti per aiutare gli studenti a visualizzare concetti complessi"
+    },
+    {
+      "materiale_didattico": "Schede di lavoro e esercizi scritti",
+      "strumento": "Microsoft Word",
+      "descrizione": "Strumenti per completare esercizi individuali o di gruppo"
+    }
+  ]
+}

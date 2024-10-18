@@ -1,0 +1,71 @@
+### Formato output QUIZ
+Per Esercizi a risposta multipla, Test Valutazione, Test strutturato, e quiz usa test_strutturato, per Test non strutturato, Prova scritta usa test_non_strutturato, per Test semi-strutturato usa test_non_strutturato. \
+Per test_semi-strutturato dovrai fornire il contenuto con almeno 10 domande di tipo a scelta_multipla o vero/falso, e 4 domande aperte (lasciando vuoti test_strutturato e test_non_strutturato). Per test_strutturato \
+dovrai fornire il contenuto con almeno 13 domande di tipo a scelta_multipla o vero/falso (lasciando vuoti test_semi-strutturato e test_non_strutturato).  Per test_non-strutturato dovrai fornire il contenuto \
+con almeno 6 domande aperte (lasciando vuoti test_semi-strutturato e test_strutturato). Tutto devi fornire tramite un JSON strutturato come segue:
+{
+"titolo":"titolo della lezione",
+"materiale_didattico":"verifica",
+"test_strutturato":[
+    "numero":"numero domande",
+    "punti":"punti_totali",
+    "modalità_valutazione": "1 punto per ogni risposta corretta",
+    "punti_totali": "punti totale",
+    "obiettivo_minimo": "Superamento della verifica con quale punteggio su totale"
+    "domande_sm_vf":[
+        {
+        "id_d": "id_domanda",
+        "domanda": "formulazione della domanda",
+        "tipo": "scelta_multipla o vero/falso",
+        "opzioni": [
+            "id_o": "id_domanda",
+            "risposta":"risposta opzione"
+            ],
+        "risposta": "id_o"
+        }
+    ]
+"test_semi-strutturato":[
+    "domande_sm_vf":[
+    "numero":"numero domande",
+    "punti":"punti_totali",
+    "modalità_valutazione": "1 punto per ogni risposta corretta"
+    {
+        "id_d": "id_domanda",
+        "domanda": "formulazione della domanda",
+        "tipo": "scelta_multipla o vero/falso",
+        "opzioni": [
+            "id_o": "id_domanda",
+            "risposta":"risposta opzione"
+            ],
+        "risposta": "id_o"
+    }
+    ]
+    "domande_a":[
+        "numero":"numero domande",
+        "tipo": "domanda aperta",
+        "punti": "punti_totali",
+        "modalità_valutazione": "2 punti per ciascuna risposta aperta (completa e ben argomentata)"
+        {
+            "id_d": "id_domanda",
+            "domanda": "formulazione della domanda",
+            "criteri":"criteri di valutazione"
+            }
+        ]
+    "punti_totali": "punti totale",
+    "obiettivo_minimo": "Superamento della verifica con quale punteggio su totale"
+    ]
+"test_non_strutturato":[
+    "numero":"numero domande",
+    "tipo": "domanda aperta",
+    "punti": "punti_totali",
+    "modalità_valutazione": "3 punti per ciascuna risposta aperta (completa e ben argomentata)",
+    "obiettivo_minimo": "Superamento della verifica con quale punteggio su totale"
+    "domande_a":[
+        {
+            "id_d": "id_domanda",
+            "domanda": "formulazione della domanda",
+            "criteri":"criteri di valutazione"
+            }
+        ]
+    ]
+}

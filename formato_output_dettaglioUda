@@ -1,15 +1,70 @@
-### Formato output
+### Formato output PROGRAMMAZIONE DISCIPLINARE PER COMPETENZE
 Dovrai fornire la progettazione tramite un JSON strutturato come segue:
-{"CP":"Compito o prodotto atteso",
-"Competenze":[{"Europee": [{"Comp":"Competenza Europea del 2018"}],
-"Professionali": [{"Comp":"Competenza professionale"}],
-"DiArea": [{"Comp":"Competenza di area disciplinare"}]
-}],
-"Abilita": [{"A":"Abilità da acquisire con la UDA"}],
-"Conoscenze":[{"C":"Conoscenza da acquisire con la UDA"}],
-"Prerequisiti":[{"P":"Prerequisito per la UDA"}],
-"Esperienze": "Esperienze attivate con la UDA",
-"Metodologie":[{"M":"Metodologia}],
-"Strumenti":[{"S":"Strumento didattico utilizzato per la UDA"}],
-"Valutazioni":[{"V":"Tipo di valutazione adoperata per la UDA"}]
+{
+"UNITA’ DI APPRENDIMENTO":"Nome unita didattica",
+"Fase di applicazione":"periodo senza anno",
+"Motivazioni": "Descrivere Motivazioni",
+"CP":{
+    "CPA":"Compito o prodotto atteso",
+    "Modalità":"Individuale o in gruppo",
+    "AC":"Atefatti consegnati",
+    "O":"Obiettivi",
+    "S":"Strumenti utilizzati",
+    "V":"Criteri di Valutazione",
+    "Relazione individuale":"6 domande per il compito prodotto da proporre allo studente"
+    }
+"Compito o prodotto atteso",
+"Competenze Europee": {
+        "Costruzione del sè": {
+            "Imparare ad imparare": {
+                "LII": "Lista indicatori per Imparare ad imparare"
+            },
+            "Progettare": {
+                "LP": "Lista indicatori per Progettare"
+            }
+        },
+        "Competenze sociali e relazione con gli altri": {
+            "Comunicare": {
+                "LC": "Lista indicatori per Comunicare"
+            },
+            "Collaborare e partecipare": {
+                "LCP": "Lista indicatori per Collaborare e partecipare"
+            },
+            "Agire in modo anonimo": {
+                "LAA": "Lista indicatori per Agire in modo anonimo"
+            }
+        },
+        "Rapporto con la realtà naturale e sociale": {
+            "Risolvere problemi": {
+                "LRP": "Lista indicatori per Risolvere problemi"
+            },
+            "Individuare collegamenti e relazioni": {
+                "ICR": "Lista indicatori per Individuare collegamenti e relazioni"
+            },
+            "Acquisire e interpretare l'infirmazione": {
+                "LAII": "Lista indicatori per Acquisire e interpretare l'infirmazione"
+            }
+        }
+    }
+"Competenze Professionali":
+    {"PC":"Lista competenze professionali (almeno 3)"}
+"Competenze DiArea":
+    {"AC":"Lsta competenza di area disciplinare (almeno 3)"}
+"Abilità":
+    {"A":"Abilità da acquisire con la UDA"}
+"Conoscenze":
+    {"C":"Conoscenza da acquisire con la UDA"}
+"Prerequisiti":
+    {"P":"Lista prerequisiti per la UDA"}
+"Periodo":"Fase di applicazione",
+"Esperienze attivate":
+    {"E":"Esperienza attivata con la UDA"}
+"Metodologie":
+    {"M":"Metodologia"}
+"Strumenti":
+    {"S":"Strumento didattico utilizzato per la UDA"}
+"Valutazioni":
+    {"VA":"Criteri di valutazione per la UDA"}
+"Verifiche":
+    {"VE":"Lista delle verifiche per la UDA"}
 }

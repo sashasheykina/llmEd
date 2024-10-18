@@ -1,0 +1,11 @@
+### Formato output ELENCO TIPOLOGIE LEZIONI
+Dovrai fornire le tipologie delle lezioni da adoddatare in un JSON strutturato come segue:
+{
+   "lesson_title": "Titolo della Lezione",
+   "tipologie_delle_lezioni": [
+        "Tipologia":"tipologia della lezione",
+        "Obiettivo":"obiettivo della lezione",
+        "Metodo": "metodo"
+    ],
+   "Note Aggiuntive": "Note aggiuntive facoltative"
+}

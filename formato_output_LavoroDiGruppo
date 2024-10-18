@@ -1,0 +1,18 @@
+### Formato output LAVORO DI GRUPPO
+Dovrai fornire la progettazione tramite un JSON strutturato come segue:
+{
+    "obiettivi":"",
+    "durata":"",
+    "contenuti":"",
+    "strumenti":"",
+    "metodologia":"
+    {
+        "introduzione":"",
+        "formazione dei gruppo":"",
+        "attività di gruppo":"",
+        "presentazioni e feedback":"",
+        "conslusione":""
+    }
+    "attività Follow-Up":"",
+    "risultati":""
+}

@@ -1,0 +1,717 @@
+{
+    "ordinamento scuola": "Scuola secondaria di II grado",
+    "tipo scuola": "Istituti Tecnici Settore Economico",
+    "grado": "III",
+    "indirizzo": "Amministrazione, finanza e marketing",
+    "articolazione": "Sistemi informativi aziendali",
+    "disciplina": "Informatica",
+    "contesto": "La classe è composta da 15 alunni, 11 maschi e 4 femmine, provenienti dalle sezioni E ed F. Vi è la presenza di un’alunna diversamente abile che segue una programmazione differenziata, 4 alunni ripetenti di cui uno che il precedente anno scolastico era stato seguito dai docenti con un PDP ed un altro che ha interrotto ufficialmente la frequenza scolastica il 6 ottobre 2021. La classe è vivace ma appare unita e abbastanza collaborativa. La maggior parte degli alluni partecipa con interesse al dialogo educativo e alle attività proposte. Dall’analisi iniziale è emerso un rendimento medio sufficiente, e l’atteggiamento verso la materia è di discreto interesse e curiosità. Per ciò che attiene il rendimento, si distinguono 3 gruppi: un primo gruppo si distingue per un'applicazione costante e per un buon livello di sviluppo delle capacità logiche, espressive e operative e per il fatto che esegue compiti in modo autonomo e responsabile con buona consapevolezza e padronanza delle conoscenze. Un secondo gruppo rientra nell'ambito di un livello soddisfacente dal momento che presenta un discreto sviluppo delle abilità di base ed un’applicazione nel complesso adeguata. Infine, un terzo gruppo presenta delle competenze acquisite in maniera essenziale che rivelano incertezze metodologiche e un approccio allo studio che necessita di maturare. Per tali motivi, l'insegnamento della disciplina si baserà, fondamentalmente, su un continuo stimolo alla partecipazione attiva degli alunni alle attività didattiche. Si terranno, lezioni partecipative e lezioni multimediali attraverso l’utilizzo della LIM, con richieste di intervento da posto e con correzioni collettiva degli esercizi, nonché attività laboratoriali tecnico-pratiche.\n",
+    "docente": "Sasha Sheykina",
+    "anno_scolastico": "2024/2025",
+    "ore_settimanali": 4,
+    "ore_annue": 132,
+    "BES": {
+        "B": "1 studentessa diversamente abile (programmazione differenziata), 1 alunno con pregresso PDP"
+    },
+    "Unita Didattiche": [
+        {
+            "UNITA’ DI APPRENDIMENTO": "Introduzione ai Sistemi Informativi Aziendali",
+            "Fase di applicazione": " Settembre-Ottobre",
+            "Motivazioni": "Fornire agli studenti una panoramica generale dei sistemi informativi aziendali",
+            "CP": {
+                "CPA": "Creazione di un sistema informativo di base per un'azienda immaginaria",
+                "Modalità": "Gruppo",
+                "AC": "Presentazione PowerPoint, report scritto",
+                "O": "Comprendere il ruolo dei sistemi informativi all'interno di un'azienda e saperli progettare in base alle specifiche esigenze",
+                "S": "LIM, applicazioni per la creazione di presentazioni e report scritti",
+                "V": "Correttezza delle informazioni, completezza del sistema informativo creato, qualità della presentazione e del report",
+                "Relazione individuale": "6 domande per il compito prodotto da proporre allo studente"
+            },
+            "Competenze Europee": {
+                "Costruzione del sè": {
+                    "Imparare ad imparare": {
+                        "LII": [
+                            "Sa fissare obiettivi di studio ragionevoli e realistici",
+                            "Sa utilizzare strategie e tecniche di studio e di apprendimento"
+                        ]
+                    },
+                    "Progettare": {
+                        "LP": [
+                            "Dimostra la capacità di progettare e gestire un sistema informativo"
+                        ]
+                    }
+                },
+                "Competenze sociali e relazione con gli altri": {
+                    "Comunicare": {
+                        "LC": [
+                            "Sa spiegare le tra caratteristiche e funzioni dei vari componenti di un sistema informativo"
+                        ]
+                    },
+                    "Collaborare e partecipare": {
+                        "LCP": [
+                            "Collabora efficacemente alla realizzazione del progetto"
+                        ]
+                    },
+                    "Agire in modo anonimo": {
+                        "LAA": [
+                            "Riconosce le norme regolari l'uso di un sistema informativo in azienda"
+                        ]
+                    }
+                },
+                "Rapporto con la realtà naturale e sociale": {
+                    "Risolvere problemi": {
+                        "LRP": [
+                            "Sa individuare problemi e trovare soluzioni nell'ambito dei sistemi informativi"
+                        ]
+                    },
+                    "Individuare collegamenti e relazioni": {
+                        "ICR": [
+                            "Sa collegare tra loro le varie parti di un sistema informativo e capire come essi interagiscono"
+                        ]
+                    },
+                    "Acquisire e interpretare l'infirmazione": {
+                        "LAII": [
+                            "Sa raccogliere ed interpretare informazioni relative ai sistemi informativi aziendali"
+                        ]
+                    }
+                }
+            },
+            "Competenze Professionali": {
+                "PC": [
+                    "Gestione dei sistemi informativi",
+                    "Progettazione di sistemi informativi",
+                    "Manutenzione di sistemi informativi"
+                ]
+            },
+            "Competenze DiArea": {
+                "AC": [
+                    "Conoscenza dei sistemi informativi e dei loro componenti",
+                    "Conoscenza delle regole di gestione e manutenzione dei sistemi informativi",
+                    "Capacità di analizzare e risolvere problemi legati ai sistemi informativi"
+                ]
+            },
+            "Abilità": {
+                "A": "Progettazione e gestione di un sistema informativo"
+            },
+            "Conoscenze": {
+                "C": "Conoscenza dei componenti, delle funzionalità e delle regole di gestione di un sistema informativo"
+            },
+            "Prerequisiti": {
+                "P": "Conoscenze di base di informatica e dei componenti di un sistema informativo"
+            },
+            "Periodo": "Settembre-Ottobre",
+            "Esperienze attivate": {
+                "E": "Creazione di un sistema informativo di base per un'azienda immaginaria"
+            },
+            "Metodologie": {
+                "M": "Lezioni frontali, cooperative learning, problem solving, didattica laboratoriale"
+            },
+            "Strumenti": {
+                "S": "LIM, applicazioni per la creazione di presentazioni e report scritti"
+            },
+            "Valutazioni": {
+                "VA": "Correttezza delle informazioni, completezza del sistema informativo creato, qualità della presentazione e del report"
+            },
+            "Verifiche": {
+                "VE": "Feedback continuo, prova finale scritta e valutazione del progetto"
+            }
+        },
+        {
+            "UNITA’ DI APPRENDIMENTO": "Fondamenti di Database e DBMS",
+            "Fase di applicazione": "Secondo Biennio - Novembre-Dicembre",
+            "Motivazioni": "Introdurre gli studenti alla gestione dei dati aziendali attraverso l’uso di Database Management System (DBMS), fondamentale per qualificarsi nel settore dell’amministrazione e della finanza.",
+            "CP": {
+                "CPA": "Creazione di un sistema di gestione dei dati aziendali utilizzando un DBMS",
+                "Modalità": "Gruppo",
+                "AC": "Database funzionante che modella una situazione aziendale realistica",
+                "O": "Imparare a progettare e implementare un database efficiente che rispecchia le esigenze di un'azienda",
+                "S": "Computer, software di DBMS (es. MySQL, Access), tutorial e guide online",
+                "V": "Correzione colleghi, Autocorrezione, Correzione del docente",
+                "Relazione individuale": "Qual è stato il ruolo svolto nel lavoro di gruppo? Quali difficoltà hai incontrato nella realizzazione del DBMS e come le hai superate? Cosa hai imparato? Come hai contribuito al raggiungimento del risultato finale? Come potresti migliorare il tuo lavoro in progetti futuri?"
+            },
+            "Competenze Europee": {
+                "Costruzione del sè": {
+                    "Imparare ad imparare": {
+                        "LII": [
+                            "Ricerca e selezione delle informazioni",
+                            "Individuazione delle risorse utili sul web",
+                            "Utilizzo delle risorse didattiche"
+                        ]
+                    },
+                    "Progettare": {
+                        "LP": [
+                            "Pianificazione delle attività",
+                            "Adattamento alla realizzazione a fronte di problemi",
+                            "Valutazione dei risultati raggiunti"
+                        ]
+                    }
+                },
+                "Competenze sociali e relazione con gli altri": {
+                    "Comunicare": {
+                        "LC": [
+                            "Lavoro in gruppo",
+                            "Presentazione dei risultati",
+                            "Ascolto delle proposte degli altri"
+                        ]
+                    },
+                    "Collaborare e partecipare": {
+                        "LCP": [
+                            "Condivisione di materiale e idee",
+                            "Costruzione di un prodotto insieme",
+                            "Rispetto del lavoro degli altri"
+                        ]
+                    },
+                    "Agire in modo autonomo": {
+                        "LAA": [
+                            "Pianificazione del proprio lavoro",
+                            "Gestione delle proprie responsabilità",
+                            "Auto-correzione del lavoro svolto"
+                        ]
+                    }
+                },
+                "Rapporto con la realtà naturale e sociale": {
+                    "Risolvere problemi": {
+                        "LRP": [
+                            "Individuazione del problema",
+                            "Proposta di soluzioni",
+                            "Applicazione delle soluzioni"
+                        ]
+                    },
+                    "Individuare collegamenti e relazioni": {
+                        "ICR": [
+                            "Applicazione delle nozioni sul DBMS al caso reale",
+                            "Collegamento tra teoria e pratica",
+                            "Riflessione sulle analogie con altri contesti"
+                        ]
+                    },
+                    "Acquisire e interpretare l'infirmazione": {
+                        "LAII": [
+                            "Ricerca di informazioni",
+                            "Valutazione delle fonti",
+                            "Interpretazione delle informazioni"
+                        ]
+                    }
+                }
+            },
+            "Competenze Professionali": {
+                "PC": [
+                    "Progettazione di un database aziendale",
+                    "Uso del DBMS",
+                    "Risoluzione di problemi legati alla gestione dei dati"
+                ]
+            },
+            "Competenze DiArea": {
+                "AC": [
+                    "Comprensione dei principi dei DBMS",
+                    "Capacità di progettare e creare un database",
+                    "Abilità di gestire i dati aziendali usando il DBMS"
+                ]
+            },
+            "Abilità": {
+                "A": [
+                    "Uso del software DBMS",
+                    "Creazione di un database aziendale",
+                    "Gestione dei dati aziendali"
+                ]
+            },
+            "Conoscenze": {
+                "C": [
+                    "Struttura di un database",
+                    "Funzioni di un DBMS",
+                    "Gestione dei dati aziendali"
+                ]
+            },
+            "Prerequisiti": {
+                "P": [
+                    "Intruduzione ai sistemi informativi aziendali",
+                    "Fondamenti di informatica"
+                ]
+            },
+            "Periodo": "Secondo Biennio - Novembre-Dicembre",
+            "Esperienze attivate": {
+                "E": [
+                    "Lezione partecipata",
+                    "Cooperative learning",
+                    "Didattica laboratoriale"
+                ]
+            },
+            "Metodologie": {
+                "M": [
+                    "Problem solving",
+                    "Brainstorming",
+                    "Lezione frontale",
+                    "Discussione plenaria",
+                    "Cooperative learning"
+                ]
+            },
+            "Strumenti": {
+                "S": [
+                    "Computer",
+                    "Software DBMS",
+                    "Presentazioni",
+                    "Internet",
+                    "LIM"
+                ]
+            },
+            "Valutazioni": {
+                "VA": [
+                    "Osservazione diretta",
+                    "Autovalutazione",
+                    "Test a risposta multipla",
+                    "Prove pratiche di laboratorio"
+                ]
+            },
+            "Verifiche": {
+                "VE": [
+                    "Verifica finale del database realizzato",
+                    "Discussione e presentazione del lavoro svolto",
+                    "Autovalutazione"
+                ]
+            }
+        },
+        {
+            "UNITA’ DI APPRENDIMENTO": "Struttura e Usabilità di un Sito Web",
+            "Fase di applicazione": "Gennaio-Febbraio",
+            "Motivazioni": "Fornire competenze base sulla progettazione e realizzazione di siti web, garantendo una comprensione dell'usabilità e accessibilità, importanti per la comunicazione d'impresa e il marketing.",
+            "CP": {
+                "CPA": "Progettazione e Realizzazione di un mini sito web.",
+                "Modalità": "Gruppo",
+                "AC": "Documento di progetto, codice sorgente del sito, documentazione di test.",
+                "O": "Mettere in pratica le competenze in materia di progettazione web. Dimostrazione della comprensione dell'usabilità e dell'accessibilità dei siti web.",
+                "S": "Editor di codice, browser per i test.",
+                "V": "Qualità del progetto del sito web, funzionalità, usabilità e accessibilità del sito.",
+                "Relazione individuale": "Descrivere il processo di progettazione del sito web. Quali difficoltà hai incontrato durante la realizzazione del sito? Come hai risolto i problemi incontrati? Che cosa hai imparato da questa esperienza? Quali miglioramenti applicheresti al tuo sito web? Ha il tuo sito raggiunto gli obiettivi prefissati?"
+            },
+            "Competenze Europee": {
+                "Costruzione del sè": {
+                    "Imparare ad imparare": {
+                        "LII": [
+                            "La consapevolezza del proprio processo di apprendimento",
+                            "La capacità di apprendere in autonomia",
+                            "L'autodisciplina nello studio"
+                        ]
+                    },
+                    "Progettare": {
+                        "LP": [
+                            "La capacità di progettare un sito web",
+                            "La capacità di gestire le risorse per realizzare il progetto",
+                            "La capacità di correggere e ottimizzare il progetto"
+                        ]
+                    }
+                },
+                "Competenze sociali e relazione con gli altri": {
+                    "Comunicare": {
+                        "LC": [
+                            "La capacità di comunicare efficacemente la struttura e il contenuto del sito",
+                            "La capacità di utilizzare il linguaggio del web",
+                            "La capacità di presentare e difendere il proprio lavoro di fronte alla classe"
+                        ]
+                    },
+                    "Collaborare e partecipare": {
+                        "LCP": [
+                            "La capacità di lavorare efficacemente in un team",
+                            "La capacità di assumersi responsabilità all'interno di un gruppo",
+                            "La capacità di gestire i conflitti all'interno del gruppo"
+                        ]
+                    },
+                    "Agire in modo anonimo": {
+                        "LAA": [
+                            "La capacità di lavorare in modo etico, rispettando la normativa sulla privacy e sulla proprietà intellettuale",
+                            "La consapevolezza delle questioni di sicurezza legate alla realizzazione dei siti web",
+                            "Il rispetto del lavoro altrui"
+                        ]
+                    }
+                },
+                "Rapporto con la realtà naturale e sociale": {
+                    "Risolvere problemi": {
+                        "LRP": [
+                            "La capacità di identificare e risolvere problemi durante la realizzazione del sito web",
+                            "La capacità di applicare conoscenze e abilità nella progettazione e realizzazione del sito"
+                        ]
+                    },
+                    "Individuare collegamenti e relazioni": {
+                        "ICR": [
+                            "La capacità di identificare collegamenti logici nel sito",
+                            "La capacità di correlare contenuti e strutture del sito con i suoi obiettivi"
+                        ]
+                    },
+                    "Acquisire e interpretare l'infirmazione": {
+                        "LAII": [
+                            "La capacità di fare ricerche su Internet per trovare risorse utili",
+                            "La capacità di interpretare ed utilizzare queste risorse nel sito web"
+                        ]
+                    }
+                }
+            },
+            "Competenze Professionali": {
+                "PC": [
+                    "Progettazione di siti Web",
+                    "Realizzazione di siti Web",
+                    "Ottimizzazione per usabilità e accessibilità"
+                ]
+            },
+            "Competenze DiArea": {
+                "AC": [
+                    "Comprendere i principi fondamentali della progettazione web",
+                    "Applicare tecniche di usabilità e accessibilità",
+                    "Testare e migliorare un sito web"
+                ]
+            },
+            "Abilità": {
+                "A": "Realizzare un sito web funzionale, usabile e accessibile"
+            },
+            "Conoscenze": {
+                "C": "Principi base di progettazione Web, usabilità e accessibilità dei siti web"
+            },
+            "Prerequisiti": {
+                "P": [
+                    "Conoscenze di base di HTML",
+                    "Conoscenze di base di CSS"
+                ]
+            },
+            "Periodo": "Gennaio-Febbraio",
+            "Esperienze attivate": {
+                "E": "Lavoro di gruppo per progettare e realizzare un mini sito web"
+            },
+            "Metodologie": {
+                "M": [
+                    "Lezione frontale",
+                    "Lavoro di gruppo",
+                    "Peer to Peer",
+                    "Esperienze pratiche",
+                    "Risorse multimediali"
+                ]
+            },
+            "Strumenti": {
+                "S": [
+                    "Editor di codice",
+                    "Browser per i test",
+                    "Materiale didattico fornito",
+                    "Tutorial online"
+                ]
+            },
+            "Valutazioni": {
+                "VA": [
+                    "Valutazione del prodotto finale (sito web)",
+                    "Valutazione del processo (partecipazione, cooperazione, gestione dei problemi)",
+                    "Valutazione dell’apprendimento (comprensione e applicazione dei concetti)"
+                ]
+            },
+            "Verifiche": {
+                "VE": [
+                    "Presentazione del progetto di sito web",
+                    "Analisi del codice del sito",
+                    "Navigazione e test del sito finalizzato"
+                ]
+            }
+        },
+        {
+            "UNITA’ DI APPRENDIMENTO": "Linguaggi di Programmazione per il Web",
+            "Fase di applicazione": "Marzo - Aprile",
+            "Motivazioni": "Approfondire i linguaggi di programmazione web per permettere agli studenti di creare e personalizzare applicazioni per soddisfare il fabbisogno aziendale.",
+            "CP": {
+                "CPA": "Sito Web interattivo per un'azienda fittizia",
+                "Modalità": "In gruppo",
+                "AC": "Progetto presentato e documentato, codice sorgente del sito",
+                "O": "Costruire un sito web funzionale e visivamente accattivante utilizzando i linguaggi di programmazione web. Identificare e risolvere le problematiche durante la fase di sviluppo. Dimostrare buone pratiche nella gestione del flusso di lavoro in team.",
+                "S": "Computer con accesso a internet, IDE per lo sviluppo web, piattaforma di gestione del codice sorgente",
+                "V": "Valutazione dell'usabilità, del design e dell'implementazione tecnica del sito web. Capacità di lavorare in team e di gestire in maniera efficiente il flusso di lavoro. Capacità di spiegare le decisioni prese durante il processo di sviluppo.",
+                "Relazione individuale": "Che difficoltà hai incontrato durante lo sviluppo del sito web? Come hai contribuito al progetto? Quali tecniche di programmazione hai utilizzato? Quali modifiche apporteresti al sito web, se ne avessi l'opportunità? Come hai gestito il flusso di lavoro in team? Quali lezioni hai imparato da questa esperienza?"
+            },
+            "Competenze Europee": {
+                "Costruzione del sè": {
+                    "Imparare ad imparare": {
+                        "LII": [
+                            "Risolvere problemi",
+                            "Gestione del tempo",
+                            "Autonomia nella ricerca di informazioni"
+                        ]
+                    },
+                    "Progettare": {
+                        "LP": [
+                            "Pianificazione delle attività",
+                            "Definizione degli obiettivi",
+                            "Monitoraggio del progresso"
+                        ]
+                    }
+                },
+                "Competenze sociali e relazione con gli altri": {
+                    "Comunicare": {
+                        "LC": [
+                            "Comunicazione efficace",
+                            "Capacità di presentazione",
+                            "Ascolto attivo"
+                        ]
+                    },
+                    "Collaborare e partecipare": {
+                        "LCP": [
+                            "Teamworking",
+                            "Contribuzione attiva",
+                            "Rispetto dei ruoli"
+                        ]
+                    },
+                    "Agire in modo anonimo": {
+                        "LAA": [
+                            "Respetto delle opinioni altrui",
+                            "Gestione dei conflitti",
+                            "Valutazione delle proposte di risoluzione"
+                        ]
+                    }
+                },
+                "Rapporto con la realtà naturale e sociale": {
+                    "Risolvere problemi": {
+                        "LRP": [
+                            "Identificazione del problema",
+                            "Proposta di soluzioni",
+                            "Implementazione della soluzione"
+                        ]
+                    },
+                    "Individuare collegamenti e relazioni": {
+                        "ICR": [
+                            "Analisi delle relazioni tra i componenti del sito",
+                            "Creazione di collegamenti interni ed esterni",
+                            "Coerenza della struttura del sito"
+                        ]
+                    },
+                    "Acquisire e interpretare l'infirmazione": {
+                        "LAII": [
+                            "Ricerca di informazioni",
+                            "Valutazione delle fonti",
+                            "Interpretazione delle informazioni"
+                        ]
+                    }
+                }
+            },
+            "Competenze Professionali": {
+                "PC": [
+                    "Sviluppo frontend",
+                    "Sviluppo backend",
+                    "Gestione del flusso di lavoro in team"
+                ]
+            },
+            "Competenze DiArea": {
+                "AC": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    "Gestione del client e del server"
+                ]
+            },
+            "Abilità": {
+                "A": [
+                    "Creazione di siti web reattivi",
+                    "Uso del CSS per il design del sito",
+                    "Implementazione di funzioni interattive con JavaScript",
+                    "Gestione delle richieste client-server"
+                ]
+            },
+            "Conoscenze": {
+                "C": [
+                    "Struttura di un sito web",
+                    "Linguaggi di programmazione per il web",
+                    "Principi del design dell'interfaccia utente",
+                    "Funzionamento dei server web"
+                ]
+            },
+            "Prerequisiti": {
+                "P": [
+                    "Conoscenza di base di HTML e CSS",
+                    "Comprensione dei principi di programmazione",
+                    "Competenza nell'uso del computer e accesso a internet"
+                ]
+            },
+            "Periodo": "Marzo - Aprile",
+            "Esperienze attivate": {
+                "E": "Sviluppo di un sito web interattivo in team, problem solving, apprendimento attraverso la pratica, autovalutazione e feedback costruttivo."
+            },
+            "Metodologie": {
+                "M": "Problem-based learning, Insegnamento basato sui progetti, Cooperative learning, Peer-to-Peer learning"
+            },
+            "Strumenti": {
+                "S": [
+                    "Computer con accesso a internet",
+                    "IDE per lo sviluppo web",
+                    "Piattaforma di gestione del codice sorgente",
+                    "Materiale didattico fornito dal docente",
+                    "LIM per le presentazioni del progetto"
+                ]
+            },
+            "Valutazioni": {
+                "VA": "Valutazione continua delle competenze acquisite durante il processo di sviluppo, valutazione del prodotto finale (sito web), Presentazione finale del progetto, Valutazione delle competenze di teamwork, Valutazione delle competenze di problem solving"
+            },
+            "Verifiche": {
+                "VE": "Verifica continua durante le fasi di sviluppo, Verifica finale con presentazione del progetto, Esercizi pratici di programmazione web, Domande orali sulla teoria dei linguaggi di programmazione web"
+            }
+        },
+        {
+            "UNITA’ DI APPRENDIMENTO": "Servizi di Rete e Sicurezza Informatica",
+            "Fase di applicazione": "Maggio",
+            "Motivazioni": "Educare gli studenti sui servizi di rete utili per le attività aziendali e sulla sicurezza informatica, essenziale per tutelare le informazioni e garantire la privacy nei contesti professionali.",
+            "CP": {
+                "CPA": "Approfondimento sulla sicurezza informatica e sui servizi di rete utili per le attività aziendali",
+                "Modalità": "Gruppo",
+                "AC": "Rapporto del progetto di ricerca, presentazione PowerPoint e/o diagrammi di flusso",
+                "O": "Definire concetti chiave dei servizi di rete e della sicurezza informatica, identificare rischi e minacce, proporre soluzioni preventive per una migliore sicurezza",
+                "S": "Computer, Internet, Software per presentazioni e diagrammi, materiale didattico fornito",
+                "V": "Risultati della ricerca, chiarezza e completezza della presentazione, comprensione dei concetti, partecipazione e collaborazione, capacità critica nella valutazione dei rischi e nella proposta di soluzioni",
+                "Relazione individuale": [
+                    "Quali servizi di rete hai individuato come più utili per le attività aziendali?",
+                    "Definisci la sicurezza informatica e perché è importante",
+                    "Quali sono i principali rischi legati alla sicurezza informatica?",
+                    "Cosa si intende per prevenzione nella sicurezza informatica?",
+                    "Quali sono le possibili minacce per la sicurezza in rete?",
+                    "Quali soluzioni preventive e correttive hai individuato per una migliore sicurezza informatica?"
+                ]
+            },
+            "Competenze Europee": {
+                "Costruzione del sè": {
+                    "Imparare ad imparare": {
+                        "LII": [
+                            "Autonomia nell'apprendimento",
+                            "Autovalutazione",
+                            "Gestione del tempo",
+                            "Tecnica di memorizzazione",
+                            "Concentrazione",
+                            "Ricerca su internet"
+                        ]
+                    },
+                    "Progettare": {
+                        "LP": [
+                            "Analisi",
+                            "Sinressi",
+                            "Elaborazione",
+                            "Ricerca",
+                            "Programmazione"
+                        ]
+                    }
+                },
+                "Competenze sociali e relazione con gli altri": {
+                    "Comunicare": {
+                        "LC": [
+                            "Ascolto attivo",
+                            "Riformulazione",
+                            "Empatia",
+                            "Darsi reciprocamente feedback",
+                            "linguaggio appropriato"
+                        ]
+                    },
+                    "Collaborare e partecipare": {
+                        "LCP": [
+                            "Collaborazione",
+                            "Partecipazione",
+                            "Responsabilità",
+                            "Affidabilità",
+                            "Respettare il turno"
+                        ]
+                    },
+                    "Agire in modo anonimo": {
+                        "LAA": [
+                            "Autodeterminazione",
+                            "Autostima",
+                            "Assertività",
+                            "Gestione delle emozioni"
+                        ]
+                    }
+                },
+                "Rapporto con la realtà naturale e sociale": {
+                    "Risolvere problemi": {
+                        "LRP": [
+                            "Identificazione del problema",
+                            "Analisi",
+                            "Sintesi",
+                            "Valutazione delle alternative",
+                            "Controllo"
+                        ]
+                    },
+                    "Individuare collegamenti e relazioni": {
+                        "ICR": [
+                            "Analisi sintesi e valutazione",
+                            "Creare connessioni",
+                            "Causa ed effetto",
+                            "Schema"
+                        ]
+                    },
+                    "Acquisire e interpretare l'informazione": {
+                        "LAII": [
+                            "Ricerca",
+                            "Selezione",
+                            "Interpretazione e comprensione",
+                            "Utilizzo delle fonti",
+                            "Rielaborazione personale"
+                        ]
+                    }
+                }
+            },
+            "Competenze Professionali": {
+                "PC": [
+                    "Conoscenza di termini e concetti chiave legati alla rete e alla sicurezza informatica",
+                    "Capacità nell'utilizzo di servizi di rete",
+                    "Competenze nella valutazione dei rischi informatici e nella proposta di soluzioni preventative"
+                ]
+            },
+            "Competenze DiArea": {
+                "AC": [
+                    "Conoscere le basi dei servizi di rete e la sua applicazione nel contesto aziendale",
+                    "Comprendere l'importanza della sicurezza informatica e le principali minacce",
+                    "Essere in grado di presentare e utilizzare strumenti informatici per migliorare la sicurezza in rete"
+                ]
+            },
+            "Abilità": {
+                "A": "Ricerca, analisi e sintesi dei concetti chiave dei servizi di rete e della sicurezza informatica"
+            },
+            "Conoscenze": {
+                "C": "Servizi di rete e sicurezza informatica"
+            },
+            "Prerequisiti": {
+                "P": [
+                    "Conoscenza di base dei computer e di Internet",
+                    "Conoscenza delle reti aziendali",
+                    "Comprensione dei concetti base della sicurezza informatica"
+                ]
+            },
+            "Periodo": "Maggio",
+            "Esperienze attivate": {
+                "E": [
+                    "Attività di ricerca e presentazione su servizi di rete e sicurezza informatica",
+                    "Laboratori su servizi di rete e sicurezza informatica"
+                ]
+            },
+            "Metodologie": {
+                "M": [
+                    "Lezione frontale e partecipata",
+                    "Cooperative learning",
+                    "Brainstorming",
+                    "Problem solving",
+                    "Didattica laboratoriale"
+                ]
+            },
+            "Strumenti": {
+                "S": [
+                    "Computer",
+                    "Internet",
+                    "Software per presentazioni e diagrammi",
+                    "Libro di testo",
+                    "Materiale didattico fornito"
+                ]
+            },
+            "Valutazioni": {
+                "VA": {
+                    "Colloquio orale": "30%",
+                    "Prova scritta": "30%",
+                    "Domande flash": "20%",
+                    "Test a risposta aperta": "10%",
+                    "Prove pratiche di laboratorio": "10%"
+                }
+            },
+            "Verifiche": {
+                "VE": [
+                    "Preparazione dei materiali per la presentazione",
+                    "Partecipazione alle attività di gruppo",
+                    "Realizzazione del progetto",
+                    "Presentazione del progetto",
+                    "Valutazioni da parte dei pari"
+                ]
+            }
+        }
+    ]
+}

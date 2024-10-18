@@ -1,89 +1,144 @@
 {
-  "CP": "Alla fine dell'Unità di Apprendimento gli studenti saranno in grado di descrivere le funzioni di un SIA (Sistema Informativo Aziendale) e di identificare i suoi componenti principali. Gli studenti dovranno anche essere in grado di illustrare un caso di applicazione di un SIA all'interno di un'azienda.",
-  "Competenze": [
-    {
-      "Europee": [
-        {
-          "Comp": "Competenza digitale"
-        },
-        {
-          "Comp": "Imprenditorialità"
-        }
-      ],
-      "Professionali": [
-        {
-          "Comp": "Conoscenza dei processi aziendali e delle loro interconnessioni"
-        },
-        {
-          "Comp": "Capacità di analisi e sintesi dei flussi informativi aziendali"
-        }
-      ],
-      "DiArea": [
-        {
-          "Comp": "Interpretare i sistemi aziendali nei loro modelli, processi e flussi informativi con riferimento alle differenti tipologie di imprese"
-        },
-        {
-          "Comp": "Utilizzare le reti e gli strumenti informatici nelle attività di studio, ricerca e approfondimento disciplinare"
-        }
-      ]
+  "UNITA’ DI APPRENDIMENTO": "Introduzione ai Sistemi Informativi Aziendali",
+  "Fase di applicazione": "Settembre-Ottobre",
+  "Motivazioni": "Fornire agli studenti una comprensione di base dei Sistemi Informativi Aziendali. L'obiettivo è rendere gli studenti conscii del grande impatto di questi sistemi sul funzionamento delle organizzazioni e sulle loro prestazioni. Con la comprensione di base dei Sistemi Informativi Aziendali, gli studenti saranno in grado di ottenere una visione di alto livello dell'argomento e dell'importanza dei Sistemi Informativi nei processi aziendali attuali.",
+  "CP": {
+    "CPA": "Progetto Finale: Progettare e sviluppare un Modello Semplice di un Sistema Informativo Aziendale",
+    "Modalità": "In gruppo",
+    "AC": "Modello di sistema informativo, Documento di progettazione, Presentazione del progetto",
+    "O": "Capire i sistemi informativi e il loro ruolo nelle organizzazioni, Sviluppare abilità problem-solving e teamwork, Preparare una chiara e organizzata presentazione del progetto.",
+    "S": "PC, Software di Diagramma, Software di Presentazioni",
+    "V": "Chiarezza del modello del sistema informativo, correttezza tecnica del modello di sistema informativo, struttura del documento di progettazione, efficacia della presentazione del progetto",
+    "Relazione individuale": "1. Che cosa avete imparato da questo progetto? 2.Se poteste cambiare qualcosa del vostro lavoro su questo progetto, cosa cambiereste? 3.Qual è stata la parte più gratificante di questa esperienza per voi? 4.Ci sarebbe qualcosa che vorreste cambiare nel progetto se dovesse rifarlo? 5.Cosa avete imparato sul lavoro di gruppo in questo progetto? 6.Hai imparato qualcosa di nuovo o inaspettato durante il progetto?"
+  },
+  "Competenze Europee": {
+    "Costruzione del sè": {
+      "Imparare ad imparare": {
+        "LII": [
+          "Ricerca di informazioni da fonti diverse",
+          "Critica e autonoma selezione di informazioni"
+        ]
+      },
+      "Progettare": {
+        "LP": [
+          "Concepire e pianificare le attività e i compiti da svolgere",
+          "Realizzare progetti in modo collaborativo"
+        ]
+      }
+    },
+    "Competenze sociali e relazione con gli altri": {
+      "Comunicare": {
+        "LC": [
+          "Usare un registro di lingua adeguato al contesto",
+          "Scambiare, ascoltare, confrontarsi"
+        ]
+      },
+      "Collaborare e partecipare": {
+        "LCP": [
+          "Partecipare attivamente e in modo costruttivo",
+          "Cooperare per raggiungere obiettivi comuni"
+        ]
+      },
+      "Agire in modo autonomo": {
+        "LAA": [
+          "Gestire i risultati",
+          "Pianificare e gestire il tempo"
+        ]
+      }
+    },
+    "Rapporto con la realtà naturale e sociale": {
+      "Risolvere problemi": {
+        "LRP": [
+          "Identificare problemi e trovare soluzioni",
+          "Pianificare l'attività sulla base di obiettivi"
+        ]
+      },
+      "Individuare collegamenti e relazioni": {
+        "ICR": [
+          "Comprendere i processi sociali, economici e culturali",
+          "Individuare le relazioni tra fatti ed eventi"
+        ]
+      },
+      "Acquisire e interpretare l'infirmazione": {
+        "LAII": [
+          "Selezionare informazioni pertinenti",
+          "Saper elaborare e interpretare le informazioni"
+        ]
+      }
     }
-  ],
-  "Abilita": [
-    {
-      "A": "Comprendere le funzioni di un SIA e identificare i suoi principali componenti"
-    },
-    {
-      "A": "Distinguere tra i vari tipi di SIA"
-    }
-  ],
-  "Conoscenze": [
-    {
-      "C": "Principi e funzioni dei Sistemi Informativi Aziendali"
-    },
-    {
-      "C": "Componenti e struttura di un SIA"
-    }
-  ],
-  "Prerequisiti": [
-    {
-      "P": "Conoscenza di base del funzionamento di un'azienda e dei suoi processi interni"
-    },
-    {
-      "P": "Familiarità con l'uso dei computer e delle applicazioni software di base"
-    }
-  ],
-  "Esperienze": "Lezioni frontali, esercizi pratici di caso, discussioni di gruppo e progetto finale che prevede la presentazione di un esempio di SIA applicato a un'azienda.",
-  "Metodologie": [
-    {
-      "M": "Lezione frontale"
-    },
-    {
-      "M": "Apprendimento basato su problemi"
-    },
-    {
-      "M": "Apprendimento cooperativo"
-    }
-  ],
-  "Strumenti": [
-    {
-      "S": "Libro di testo"
-    },
-    {
-      "S": "Computer e software per la presentazione"
-    },
-    {
-      "S": "Internet per la ricerca"
-    }
-  ],
-  "Valutazioni": [
-    {
-      "V": "Valutazione sommativa mediante test a risposta multipla alla fine dell'unità"
-    },
-    {
-      "V": "Valutazione formativa attraverso l'osservazione durante le lezioni e i lavori di gruppo"
-    },
-    {
-      "V": "Autovalutazione e valutazione tra pari su presentazione del progetto"
-    }
-  ]
+  },
+  "Competenze Professionali": {
+    "PC": [
+      "Progettazione e implementazione dei sistemi informativi",
+      "Analisi e interpretazione dei bisogni informativi",
+      "Gestione dei dati aziendali"
+    ]
+  },
+  "Competenze DiArea": {
+    "AC": [
+      "Comprensione dei concetti fondamentali dei sistemi informativi",
+      "Progettazione di soluzioni informatiche per i processi aziendali",
+      "Comprensione delle tecnologie ICT per la gestione delle informazioni"
+    ]
+  },
+  "Abilità": {
+    "A": [
+      "Capacità di modellare un sistema informativo",
+      "Capacità di lavorare con i sistemi di database",
+      "Capacità di presentare i risultati di un progetto"
+    ]
+  },
+  "Conoscenze": {
+    "C": [
+      "Conoscenze di base dei Sistemi Informativi Aziendali",
+      "Principi di progettazione dei sistemi informativi",
+      "Conoscenza di base dei principi di gestione dei sistemi di database"
+    ]
+  },
+  "Prerequisiti": {
+    "P": [
+      "Conoscenza di base dell'informatica",
+      "Competenze di base in matematica",
+      "Competenze di base nel pensiero logico e critico"
+    ]
+  },
+  "Periodo": "Settembre-Ottobre",
+  "Esperienze attivate": {
+    "E": [
+      "Lavoro di gruppo per progettare un sistema informativo",
+      "Presentazione del progetto finale",
+      "Utilizzo di strumenti ICT per la progettazione dei sistemi informativi"
+    ]
+  },
+  "Metodologie": {
+    "M": [
+      "Lezioni frontali",
+      "Lavoro di gruppo",
+      "Cooperative Learning",
+      "Problem solving",
+      "Laboratori pratici"
+    ]
+  },
+  "Strumenti": {
+    "S": [
+      "PC",
+      "Software di Diagramma",
+      "Software di Presentazioni"
+    ]
+  },
+  "Valutazioni": {
+    "VA": [
+      "Chiarezza del modello del sistema informativo",
+      "Correttezza tecnica del modello di sistema informativo",
+      "Struttura del documento di progettazione",
+      "Efficacia della presentazione del progetto"
+    ]
+  },
+  "Verifiche": {
+    "VE": [
+      "Valutazione tramite test",
+      "Valutazione tramite progetto di gruppo",
+      "Valutazione tramite presentazione di un progetto"
+    ]
+  }
 }

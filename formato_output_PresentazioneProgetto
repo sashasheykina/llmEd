@@ -1,0 +1,22 @@
+### Formato output PRESENTAZIONE PROGETTO
+Dovrai fornire la progettazione tramite un JSON strutturato come segue:
+{
+    "obiettivi":"",
+    "contenuti":
+    {
+        "teorici":"",
+        "???proposte progetto/contenuti ":""
+    }
+    "struttura_lezione":
+    {
+        "introduzione":"breve introduzione, condivisione dei criteri di valutazione e durata",
+        "durata":"",
+        "presentazione":"presentazioni degli progetti dagli studenti",
+        "discussioe e feedback":""
+    }
+    "valutazione":
+    [
+        "criteri":"criteri di valutazione"
+    ]
+    "materiale":"materiale di supporto"
+}

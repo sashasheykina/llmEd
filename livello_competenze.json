@@ -1,0 +1,47 @@
+{
+  "livelli_EQF": {
+    "0": {
+      "descrizione": "Insufficiente/non raggiunto",
+      "voto_in_decimi": "≤ 5",
+      "criteri": [
+        "Non riesce ad utilizzare correttamente i dispositivi in autonomia comprendendone il funzionamento",
+        "Utilizza con difficoltà le funzioni del software di base",
+        "Realizza documenti non strutturati, disorganizzati e senza elementi tecnici",
+        "Esprime difficoltà nell’utilizzo di Internet",
+        "Si esprime con linguaggio tecnico lacunoso ed impreciso"
+      ]
+    },
+    "1": {
+      "descrizione": "Base/Sufficiente",
+      "voto_in_decimi": "6",
+      "criteri": [
+        "Riesce ad utilizzare correttamente i dispositivi in autonomia comprendendone il funzionamento base",
+        "Utilizza le funzioni più comuni del software di base",
+        "Realizza documenti poco strutturati, organizzati in modo essenziale e con semplici elementi tecnici",
+        "Utilizza autonomamente le funzioni base di Internet",
+        "Si esprime con linguaggio tecnico essenziale e non sempre preciso"
+      ]
+    },
+    "2": {
+      "descrizione": "Intermedio",
+      "voto_in_decimi": "7-8",
+      "criteri": [
+        "Riesce ad utilizzare correttamente i dispositivi in autonomia comprendendone a pieno le funzionalità",
+        "Utilizza a pieno le funzioni più comuni del software di base",
+        "Realizza presentazioni ben strutturate ed organizzate usando elementi tecnici appropriati",
+        "Utilizza Internet in modo appropriato",
+        "Si esprime con linguaggio tecnico preciso ed appropriato"
+      ]
+    },
+    "3": {
+      "descrizione": "Avanzato",
+      "voto_in_decimi": "9-10",
+      "criteri": [
+        "Riesce ad utilizzare efficientemente i dispositivi in autonomia comprendendone a pieno anche le funzionalità più complesse",
+        "Realizza documenti ben strutturati ed organizzati usando elementi tecnici appropriati ed originali",
+        "Utilizza Internet in modo appropriato sfruttandone a pieno le potenzialità",
+        "Si esprime con linguaggio tecnico preciso, appropriato dimostrando piena padronanza"
+      ]
+    }
+  }
+}

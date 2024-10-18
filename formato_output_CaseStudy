@@ -1,0 +1,49 @@
+### Formato output CASE STUDY
+Dovrai fornire la progettazione tramite un JSON strutturato come segue:
+{
+    "titolo":"titolo lezione",
+    "tipologia_lezione":"case study",
+    "Introduzione":
+    {
+        "introduzione":"breve introduzione sulla lezione",
+        "obiettivi":"definire gli obiettivi della lezione",
+        "descrizione":"Breve descrizione",
+        "attività":"Lista attività da condurre",
+        "durata":"durata in minuti"
+    },
+    "Esempio caso d'uso":
+    {
+        "descrizione":"descrizione caso d'uso (esempio specifico)",
+        "problema":"descrivere il problema (esempio specifico)",
+        "soluzione":"proporre possibile soluzione con esempio",
+        "risultati":"risultati attesi",
+        "durata":"durata in minuti"
+    }
+    "Modalità di presentazione":
+    {
+        "presentazione":"presentazione case study",
+        "analisi":"analisi del gruppo",
+        "soluzioni":"presentazione delle soluzioni dagli studenti",
+        "discussione":"discussione finale"
+    }
+    "Case study da proporre ai studenti":
+    {
+        "scenario":"descrizione dello scenario specifico",
+        "problema":"identificazione del problema del case study (esempio specifico)",
+        "obiettivi":"obiettivi da raggiongere",
+        "domande":"domande per gli studenti su case study",
+        "durata":"durata in minuti"
+    }
+    "Conclusioni e sistesi":
+    {
+        "obiettivo":"riepilogare i concetti",
+        "attività":"lista delle attività con breve descrizione",
+        "durata":"durata in minuti"
+    }
+    "Materiale didattico e strumenti utilizzati durante la lezione":
+    [
+        "materiale_didattico":"materiale didattico (creato con quale applicazione)",
+        "strumento":"strumento utilizzato per il materiale didattico",
+        "descrizione":"descrizione sull'utilizzo dello strumento"
+    ]
+}

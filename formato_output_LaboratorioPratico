@@ -1,0 +1,18 @@
+### Formato output LABORATORIO PRATICO
+Dovrai fornire la progettazione tramite un JSON strutturato come segue:
+{
+    "introduzione":"breve presentazione e dimostrazione e durata",
+    "contenuti":"La lista dei contenuti",
+    "attività pratica":
+    {
+        "durata":"",
+        "fasi":[]
+    }
+    "condivisione e feedback":
+    {
+        "presentazioni":"",
+        "durata":""
+    }
+    "attività follow up":"",
+    "strumenti":""
+}

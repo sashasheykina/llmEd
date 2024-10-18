@@ -1,29 +1,32 @@
 {
+  "BES/DSA": {
+    "B": "1 alunna diversamente abile (programmazione differenziata), 1 alunno con PDP"
+  },
   "Unita Didattiche": [
     {
       "UDA": "Introduzione ai Sistemi Informativi Aziendali",
       "Periodo": "Settembre-Ottobre",
-      "Motivazioni": "Fornire una comprensione di base del sistema informativo aziendale, delle sue componenti e della sua importanza nel contesto aziendale. Questo è essenziale per far sì che gli studenti acquisiscano le fondamenta su cui si baseranno le future unità didattiche."
+      "Motivazioni": "Fornire agli studenti una comprensione di base dei sistemi informativi aziendali, essenziale per il corso di studi e per facilitare un approccio sistemico integrato."
     },
     {
-      "UDA": "Progettazione e Gestione di Database",
+      "UDA": "Fondamenti di Database e Utilizzo di un DBMS",
       "Periodo": "Novembre-Dicembre",
-      "Motivazioni": "Sviluppare le competenze nella progettazione e gestione di database, con particolare attenzione all'utilizzo del DBMS e al linguaggio SQL. Queste conoscenze sono cruciali per la gestione dei flussi informativi e per l'analisi dei dati aziendali."
+      "Motivazioni": "Acquisire competenze nella gestione dei dati utilizzando un DBMS, fondamentale per le attività amministrativo-contabili e la gestione delle informazioni aziendali."
     },
     {
-      "UDA": "Introduzione ai Linguaggi di Programmazione",
+      "UDA": "Progettazione e Realizzazione di Pagine Web",
       "Periodo": "Gennaio-Febbraio",
-      "Motivazioni": "Fornire una comprensione di base dei linguaggi di programmazione, fondamento per sviluppare soluzioni software aziendali e migliorare i processi operativi."
+      "Motivazioni": "Sviluppare abilità nella creazione di contenuti web, considerate essenziali per comunicazioni aziendali e marketing digitale."
     },
     {
-      "UDA": "Progettazione di Ipermedia e Siti Web",
+      "UDA": "Reti e Sicurezza Informatica in Azienda",
       "Periodo": "Marzo-Aprile",
-      "Motivazioni": "Sviluppare competenze nella progettazione e realizzazione di ipermedia e siti web aziendali, migliorando la comunicazione digitale e integrata dell'azienda."
+      "Motivazioni": "Approfondire le conoscenze delle reti aziendali e delle pratiche di sicurezza informatica, cruciale per la protezione dei dati e per la corretta gestione dei flussi informativi."
     },
     {
-      "UDA": "Tecnologie di Rete e Sicurezza Informatica",
+      "UDA": "Software Gestionali per l'Amministrazione e il Marketing",
       "Periodo": "Aprile-Maggio",
-      "Motivazioni": "Introdurre gli studenti alle tecnologie di rete e alla sicurezza informatica, argomenti cruciali per proteggere i dati aziendali e facilitare le operazioni telematiche."
+      "Motivazioni": "Esplorare l'uso dei software gestionali per ottimizzare le operazioni di amministrazione e marketing, sviluppando competenze pratiche e operative."
     }
   ]
 }

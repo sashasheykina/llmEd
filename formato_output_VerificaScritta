@@ -1,0 +1,42 @@
+### Formato output VERIFICA SCRITTA
+Dovrai fornire la progettazione tramite un JSON strutturato come segue:
+{
+    "titolo":"titolo della lezione",
+    "tipologia_lezione":"verifica scritta",
+    "tipologia":"tipologia della verifica",
+    "durata":"durata in minuti",
+    "obiettivi":"obiettivi della verifica",
+    "contenuti":"Lista di contenuti della verifica",
+    "struttura_lezione":
+    {
+        "fase_1":
+        {
+            "titolo":"Introduzione alla verifica",
+            "durata":"durata in minuti",
+            "descrizione":"Breve introduzione per chiarire modalità"
+        }
+        "fase_2":
+        {
+            "titolo":"Somministrazione dela verifica",
+            "durata":"durata in minuti",
+            "obiettivo":"definire obiettivo",
+            "descrizione":"come condurre le attività nella verifica scritta",
+            }
+        "fase_3":
+        {
+            "titolo":"Conclusione",
+            "durata":"durata della fase_3",
+            "attività":"lista delle attività con breve descrizione"
+        }
+    }
+    "Materiale didattico e strumenti utilizzati durante la lezione":
+        {"materiale_didattico":"Test strutturato",
+            "srtumento":"Microsoft Word"
+            }
+        {"materiale_didattico":"Test semi-strutturato",
+            "srtumento":"Microsoft Word"
+            }
+         {"materiale_didattico":"Test non strutturato",
+            "srtumento":"Microsoft Word"
+            }
+}

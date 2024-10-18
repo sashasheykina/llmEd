@@ -1,0 +1,50 @@
+### Formato output LEZIONE FRONTALE
+Dovrai fornire la progettazione tramite un JSON strutturato come segue:
+{
+    "obiettivi":"Obiettivi della lezione",
+    "durata":"",
+    "contenuti":"La lista dei contenuti",
+    "sezioni":
+    {
+        "verifica prerequisiti":
+        {
+            "prerequisiti":"lista dei prerequisiti per la lezione da verificare",
+            "presentazione":"descrizione come presentare",
+            "durata":"durata in minuti"
+        }
+        "introduzione":
+        {
+            "obiettivo":"definire obiettivo della lezione",
+            "descrizione":"breve descrizione della lezione",
+            "attività":"lista attività da condurre",
+            "durata":"durata in minuti"
+        }
+        "nucleo_centrale":
+        {
+            "attività":"lista attività da condurre",
+            "contenuti della lezione":[
+                "contenuto":"nome contenuto",
+                "sotto_contenuto":{"sc":"La lista dei dettagli, esempi o ulteriori suddivisioni dei concetti principali"}}
+            ]
+            "presentazione dei contenuti":"come presentare i contenuti"
+            "durata":"durata in minuti"
+
+        }
+        "riepilogo_consolodamento":
+        {
+            "obiettivo":"definire obiettivo",
+            "attività":"lista attività d acondurre",
+            "durata":"durata in minuti"
+        }
+        sezione_5:
+        {
+             "verifica breve":"tipo di verifica da applicare sui raggiungimento degli obiettivi della lezione"
+        }
+    }
+    "Materiale didattico e strumenti utilizzati durante la lezione":
+    [
+        "materiale_didattico":"materiale didattico (creato con quale applicazione)",
+        "strumento":"strumento utilizzato per il materiale didattico",
+        "descrizione":"descrizione sull'utilizzo dello strumento"
+    ]
+}

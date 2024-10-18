@@ -1,0 +1,80 @@
+{
+  "Materiale Didattico": [
+    {
+      "Presentazioni": [
+        {
+        "Slides": "PowerPoint"},
+        {
+        "Mappe Concettuali": [{"App": "Coggle"},
+                              {"App": "Algor"}]}
+      ]
+    },
+    {
+      "Materile interattivo": [
+        {
+          "Quiz": [{"App":"Mentimeter"},
+                 {"App": "Kahoot!"},
+                 {"App": "Quizizz"}]},
+        {
+          "Sondaggi":[{"App":"Mentimeter"},
+                      {"App": "Padlet"}
+          ]
+        },
+        {
+          "Gamification":[{"App":"Kahoot!"},
+                          {"App": "Quizizz"}
+          ]},
+        {
+          "Bacheche digitali": {"App": "Padlet"}},
+        {
+          "Brainstorming": [{"App": "Padlet"},
+                            {"App": "Mentimeter"}
+          ]
+        },
+        {"Analisi del caso": {"App": "Microsoft Word"}}
+      ]
+    },
+    {
+      "Materile testuale e cartaceo": [
+        {
+          "Schede di lavoro": {"App":"Word"}},
+        {
+          "Esercizi scritti":[{"App":"PDF"},
+                              {"App": "Microsoft Word"}
+          ]
+        },
+        {
+          "Progettazione didattica":{"App":"Microsoft Word"}
+          }
+      ]
+    },
+    {
+      "Verifica": [
+        {
+          "Test Valutazione": [{"App":"Quizizz"},
+                               {"App": "Google Moduli!"}]},
+        {
+          "Esercizi a risposta multipla":[{"App":"Google Moduli"},
+                                          {"App": "Kahoot!"}
+          ]
+        }
+      ]
+    },
+    {
+      "Materile collaborativo": [
+        {
+          "Progetti di gruppo": {"App":"Padlet"}},
+        {
+          "Mappe mentali condivise":[{"App": "Coggle"}
+          ]
+        }
+      ]
+    },
+    {"Materile tecnologico": [
+        {
+          "Strumenti": [{"Strumento":"LIM"},
+                        {"Strumento": "Tablet/Laptop"},
+                        {"Strumento": "Smartphone"}]}
+      ]}
+  ]
+}

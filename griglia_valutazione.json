@@ -1,0 +1,74 @@
+{
+  "griglia_valutazione": [
+    {
+      "voto": "10",
+      "livello_competenze": "3",
+      "conoscenze": "Complete, organiche e approfondite in modo personale",
+      "abilita": "Sa rielaborare ed esporre correttamente anche in prospettiva interdisciplinare ed in situazioni nuove",
+      "competenze": "Applica le conoscenze in modo corretto ed autonomo, compiendo analisi approfondite con piena padronanza dei linguaggi"
+    },
+    {
+      "voto": "9",
+      "livello_competenze": "3",
+      "conoscenze": "Complete e con qualche approfondimento personale",
+      "abilita": "Sa rielaborare in modo corretto e completo",
+      "competenze": "Applica le conoscenze in modo corretto ed autonomo, compiendo analisi approfondite"
+    },
+    {
+      "voto": "8",
+      "livello_competenze": "2-3",
+      "conoscenze": "Complete e con qualche approfondimento personale",
+      "abilita": "Sa rielaborare in modo corretto e completo",
+      "competenze": "Applica le conoscenze in modo autonomo e relaziona in modo completo"
+    },
+    {
+      "voto": "7",
+      "livello_competenze": "1-2",
+      "conoscenze": "Complete con sufficienti riflessioni ed analisi personale",
+      "abilita": "Sa rielaborare in modo corretto e gestire le situazioni nuove nell’ambito disciplinare",
+      "competenze": "Applica ed espone le conoscenze in modo autonomo, ma con imperfezioni"
+    },
+    {
+      "voto": "6",
+      "livello_competenze": "1",
+      "conoscenze": "Abbastanza complete ma non approfondite",
+      "abilita": "Sa gestire le situazioni semplici, in contesti noti (in ambito disciplinare).",
+      "competenze": "Applica le conoscenze raggiungendo gli obiettivi minimi previsti, esprimendosi in modo semplice ma corretto"
+    },
+    {
+      "voto": "5",
+      "livello_competenze": "0",
+      "conoscenze": "Limitate e superficiali",
+      "abilita": "Gestisce situazioni semplici in contesti noti con varie scorrettezze. Non usa termini specifici",
+      "competenze": "Applica le conoscenze con approssimazione, esprimendosi in modo non sempre preciso"
+    },
+    {
+      "voto": "4",
+      "livello_competenze": "0",
+      "conoscenze": "Lacunose",
+      "abilita": "Agisce in modo mnemonico e spesso non pertinente, compie sintesi scorrette.",
+      "competenze": "Non riesce ad applicare le conoscenze minime, compiendo analisi lacunose ed errate"
+    },
+    {
+      "voto": "3",
+      "livello_competenze": "0",
+      "conoscenze": "Frammentarie e gravemente lacunose",
+      "abilita": "Non sa riproporre, nessun tema, neanche in modo mnemonico/ripetitivo. Non conosce il linguaggio specifico.",
+      "competenze": "Non riesce ad applicare le conoscenze minime, ne compie alcun tipo di analisi, esprimendosi in modo scorretto ed improprio"
+    },
+    {
+      "voto": "1-2",
+      "livello_competenze": "0",
+      "conoscenze": "Non verificabile: lo studente rifiuta di sottoporsi a valutazione.",
+      "abilita": "Non verificabile",
+      "competenze": "Non verificabile"
+    },
+    {
+      "voto": "N.C.",
+      "livello_competenze": "0",
+      "conoscenze": "Non verificabile: lo studente rifiuta di sottoporsi a valutazione",
+      "abilita": "Non verificabile",
+      "competenze": "Le assenze dello studente non consentono una valutazione attendibile"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+### Formato output DISCUSSIONE GUIDATA
+Dovrai fornire la progettazione tramite un JSON strutturato come segue:
+{
+    "titolo":"titolo lezione",
+    "tipologia_lezione":"discussione guidata",
+    "Introduzione":
+    {
+        "obiettivo":"definire obiettivo della lezione",
+        "descrizione":"Breve descrizione",
+        "attività":"Lista attività da condurre",
+        "durata":"durata in minuti"
+    },
+    "Domande di aperture":
+    {
+        "obiettivo":"definire obiettivo",
+        "domande":"domande aperte agli studenti per introdurre il tema",
+        "durata":"durata in minnuti"
+    }
+    "Discussione guidata":
+    {
+        "obiettivo":"definire obiettivo",
+        "descrizione":"come condurre le attività nella lezione guidata proposta",
+        "domande":"lista domande più specifiche ",
+        "durata":"durata in minuti"
+    }
+    "Conclusioni e sistesi":
+    {
+        "obiettivo":"riepilogare i concetti",
+        "attività":"lista delle attività con breve descrizione",
+        "durata":"durata in minuti"
+    }
+    "Materiale didattico e strumenti utilizzati durante la lezione":
+    [
+        "materiale_didattico":"materiale didattico (creato con quale applicazione)",
+        "strumento":"strumento utilizzato per il materiale didattico",
+        "descrizione":"descrizione sull'utilizzo dello strumento"
+    ]
+}

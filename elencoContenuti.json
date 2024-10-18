@@ -1,0 +1,21 @@
+{
+  "lesson_title": "Introduzione ai Sistemi Informativi Aziendali: Concetti di base",
+  "tipologie_delle_lezioni": [
+    {
+      "Tipologia": "Lezione frontale",
+      "Obiettivo": "Fornire agli studenti una comprensione preliminare dei concetti fondamentali dei Sistemi Informativi Aziendali",
+      "Metodo": "Utilizzo di slide, materiale didattico e spiegazione del docente"
+    },
+    {
+      "Tipologia": "Case Study",
+      "Obiettivo": "Facilitare la comprensione pratica delle applicazioni reali dei sistemi informativi",
+      "Metodo": "Analisi e discussione di casi studio aziendali pertinenti"
+    },
+    {
+      "Tipologia": "Discussione guidata",
+      "Obiettivo": "Stimolare il confronto e la riflessione critica sugli argomenti trattati",
+      "Metodo": "Discussione in classe su domande guidate dal docente"
+    }
+  ],
+  "Note Aggiuntive": "Considerando la presenza di alunni con BES/DSA, è importante prevedere adattamenti nella modalità di esposizione e verifica dei contenuti."
+}

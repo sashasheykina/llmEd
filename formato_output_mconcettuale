@@ -1,0 +1,12 @@
+### Formato output MAPPA CONCETTUALE
+Dovrai fornire il contenuto con almeno 6 rami_principali e almeno 2 sotto_rami tramite un JSON strutturato come segue:
+{
+"titolo":"titolo della lezione",
+"materiale_didattico":"mappa concettuale",
+"nodo_centrale":"Nome nodo centrale",
+"rami":[
+    {
+        "ramo_principale": "Nome ramo principale",
+        "sotto_rami":{"sr":"La lista dei dettagli, esempi o ulteriori suddivisioni dei concetti principali"}}
+        ]
+}

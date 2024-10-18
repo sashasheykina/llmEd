@@ -1,0 +1,31 @@
+### Formato output FLIPPED CLASSROOM
+Dovrai fornire la progettazione tramite un JSON strutturato come segue:
+{
+    "titolo":"titolo lezione",
+    "tipologia_lezione":"flipped classroom",
+    "obiettivo generale":"obiettivo generale della lezione",
+    "obiettivi specifici":"lista obiettivi specifici della lezione",
+    "durata":"durata in minnuti"
+    "fase pre-attiva (studio autonomo)":{
+        "descrizione":"",
+        "materiale":"lista materiale per lo studio autonomo con breve descrizione",
+        "verifica":"breve verifica con alcune domande sul materiale appreso"
+        },
+    "fase attiva (in classe)":{
+        "descrizione":"breve descrizione",
+        "attività":"lista delle attività con breve descrizione",
+        "durata":"durata in minnuti"
+    }
+    "Conclusioni e sistesi":
+    {
+        "obiettivo":"riepilogare i concetti",
+        "attività":"lista delle attività con breve descrizione",
+        "durata":"durata in minuti"
+    }
+    "Materiale didattico e strumenti utilizzati durante la lezione":
+    [
+        "materiale_didattico":"materiale didattico (creato con quale applicazione)",
+        "strumento":"strumento utilizzato per il materiale didattico",
+        "descrizione":"descrizione sull'utilizzo dello strumento"
+    ]
+}
